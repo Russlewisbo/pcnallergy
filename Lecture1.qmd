@@ -379,7 +379,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ![](images/penfast_perf.png){fig-align="center"}
 
-::: .aside
+::: aside
 [@trubiano.etal_2020]
 :::
 
@@ -387,8 +387,16 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ![](images/amox_challenge.png){fig-align="center"}
 
-::: .aside
+::: aside
 [@macy.etal_2023]
+:::
+
+## Palace study
+
+![](images/Palace.png){fig-align="center"}
+
+::: aside
+[@copaescu.etal_2023]
 :::
 
 ## Two step oral amoxicillin challenge
@@ -397,7 +405,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ![](images/2step.png){fig-align="center"}
 
-::: .aside
+::: aside
 [@macy.etal_2023]
 :::
 
@@ -405,33 +413,227 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ![](images/anaphylaxis.png){fig-align="center"}
 
-::: .aside
+::: aside
 [@macy.etal_2023]
+:::
+
+## How to assess patient risk
+
+<br>
+
+![](images/risk.png){fig-align="center"}
+
+::: aside
+[@shenoy.etal_2019]
 :::
 
 ## Skin testing
 
 ![](images/skintest.png){fig-align="center"}
 
-::: .aside
+::: aside
 [@macy.etal_2023]
 :::
 
 ## Allergic determinates {.smaller}
 
-:::::: columns
+::::: columns
 ::: {.column width="50%"}
-![](images/penicillins.png){width="200"}
+![](images/penicillins.png){fig-align="center" width="250"}
 :::
 
 ::: {.column width="50%"}
-![](images/minor.png){width="200"}
+![](images/minor.png){fig-align="center" width="250"}
 :::
+:::::
 
-::: .aside
+::: aside
 [@castells.etal_2019]
 :::
-::::::
+
+## Penicillin skin test asssessment
+
+![](images/skintest2.png){fig-align="center"}
+
+::: aside
+[@macy.etal_2023]
+:::
+
+## Penicillin skin test assessment-Medium risk history
+
+![](images/medium%20risk.png){fig-align="center"}
+
+::: aside
+[@macy.etal_2023]
+:::
+
+## How do these test impact "medium risk" patients?
+
+<br>
+
+-   A negative skin test is associated with a 95% NPV for PCN allergy
+-   A negative skin test plus negative amoxicillin challenge approaches 100% NPV for PCN allergy
+-   If skin test is positive, amoxicillin challenge is not considered
+-   Patient should be referred to an allergy/immunologist or desensitisation considered
+
+## Desensitization
+
+<br>
+
+-   Progressive, graded degranulation of mast cells (histamine release) by administering graded doses of antibiotic
+-   Desensitization is contraindicated in patients with a history of a penicillin-induced exfoliative dermatitis, Stevens-Johnson syndrome, or toxic epidermal necrolysis
+-   Desensitization has no effect on the incidence of non-IgE mediated reactions such as serum sickness, hemolytic anemia, maculopapular rashes, drug fever, hepatitis, or interstitial nephritis
+-   If the patient does not receive a dose for a period of more than 24 hours, the risk for an immediate IgE-mediated reaction can be restored and repeat desensitization is required if the same drug is to be used again
+
+## Sample desensitization protocol
+
+![](images/meropenem.png){fig-align="center"}
+
+::: aside
+Source: MD Anderson Cancer Center, Houston, Texas
+:::
+
+## Other desensitization protocols
+
+![](images/Sanford.png){fig-align="center"}
+
+## Cross-reactivity: Infectious diseases dogma
+
+::::: columns
+::: {.column width="50%"}
+-   Common teaching: If a patient has a documented PCN allergy, the risk of cross reactions with cephalosporins is 10%
+-   THIS IS FALSE, the actual cross reactivity is more likely 2%-3%
+    -   A subset of patients with history of anaphylaxis may have cross-reactivity determined by the R1 sidechain of the molecule
+    -   Cefazolin as a unique side chain and and very low risk for cross-reactivity
+:::
+
+::: {.column width="50%"}
+![](images/sidechains.png)
+:::
+:::::
+
+<br>
+
+## Risk of cross-reactivity related to cephalosporin sidechain
+
+<br>
+
+![](images/cross-reactivity.png){fig-align="center"}
+
+::: aside
+Source: Stanford University Hospital Antimicrobial Stewardship
+:::
+
+## What is the cross-reactivity with carbapenems?
+
+<br>
+
+-   Cross reactivity with penicillin allergy and carbapenems is less than 1%
+-   No cross reactivity between penicillins and monobactams (aztreonam)
+-   A graded challenge or test dose can be considered:
+    -   i.e. Infuse 5-10% of dose and observe patient, then progress to full dose if not reaction
+    -   Skin testing (if available) could also rule out allergies
+
+## Special populations that should be <br> considered for testing {.smaller}
+
+<br>
+
+-   **Peri-procedure before elective surgery**
+    -   Importance of antibiotic timing/tissue levels at time of incision-less optimal with vancomycin that requires longer infusion
+-   **Pregnancy**
+    -   PCN allergy associated with increased risk of cesarean delivery, post-cesarean wound complications, and longer length of stay
+    -   Consider third trimester referral for testing in patients with planned cesarean delivery, group B streptococcus colonization
+-   **Long term care facilities**
+    -   Non-beta-lactam based therapies have higher risk for drug interactions
+    -   Higher risk for adverse effects
+-   **Hematology-oncology**
+    -   Consider testing before chemotherapy or transplant (onset of of immunosuppression)
+-   **STD clinics**
+-   **ICU patients?**
+
+## <br> <br> <br> <br> Non-penicillin allergies? {background-image="images/TMPSMX.png" background-opacity="0.2"}
+
+## Similar principles- patient history is key
+
+<br>
+
+-   Which drugs was the patient taking?
+-   Dates of intake
+-   Exact sequence of events
+-   Underlying disease/Concomitant infections
+-   Other drug administered at the same time/concomitant infections
+-   Clinical morphology (at several time points)of rash
+-   Histology of eosinophilia?
+
+## Intradermal testing-Non beta-lactams
+
+::::: columns
+::: {.column width="50%"}
+![](images/intradermal.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+-   Prick and intradermal tests less well standardized S
+-   Some antibiotics are irritating even at low concentrations, making testing difficult
+-   Special cellular activation tests may be available in some centers for some drugs
+:::
+:::::
+
+::: aside
+Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## Approach to delayed-type hypersensitivity testing
+
+::::: columns
+::: {.column width="50%"}
+![](images/Patch.png)
+:::
+
+::: {.column width="50%"}
+-   Intradermal or patch testing with reading 24-72 hours
+    -   Low sensitivity, high specificity
+-   Lymphocyte transformation testing
+    -   Available in specialized laboratories
+    -   Haptenization to become an antigen in vivo (hard to imitate in lab)
+:::
+:::::
+
+::: aside
+Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## Sulfonamide hypersensitivity
+
+<br>
+
+-   Incidence 8%
+-   Primarily cutaneous and GI tract
+-   Only 3% are considered true hypersensitivity reactions.
+    -   Most common presentations are limited exanthems and fixed drug eruptions
+    -   However...sulfonamides are disproportionately associated with infrequent severe side effects (i.e. TEN, Stevens-Johnson Syndrome)
+-   Mechanisms IgE-mediated are known to occur, but other poorly understood direct T-cell mediated mechanisms are more likely to be responsible
+-   Higher incidence of reactions in patients with HIV/AIDS, tuberculosis
+
+Mechanism of sulfonamide hypersensitivity
+
+<br>
+
+![](images/sulfallergy.png)
+
+::: aside
+[@slatore.tilles_2004]
+:::
+
+## Summary {background-image="images/nejm_allergy.png" background-opacity="0.2"}
+
+<br>
+
+-   Penicillin allergies are the most common “contraindication” to antibiotic therapy, but most histories do not represent true allergies
+-   A systematic approach can be used to evaluate and potentially “de-label” patients with penicillin allergy
+-   Cross-reactivity rates are low with current cephalosporins and carbapenems, but can alternatively be addressed through antibiotic challenges and skin testing
+-   Desensitization can be attempted in specific cases when a particular antibiotic is needed for IgE-mediated reactions
+-   Some antibiotics cause non-immune-related hypersensitivity reactions that can be managed by slowing infusions and administering antihistamines
 
 ## References
 
