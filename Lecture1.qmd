@@ -309,7 +309,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 :::
 :::::
 
-## Top 4 patient penicillin allergy myths  {background-image="images/amoxicillin.png" background-opacity="0.2"}
+## Top 4 patient penicillin allergy myths {background-image="images/amoxicillin.png" background-opacity="0.2"}
 
 <br>
 
@@ -331,6 +331,108 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
     -   No genetic basis has been identified for penicillin allergies
 
+## Penicillin allergy history
+
 <br>
 
+![](images/history.png){fig-align="center"}
+
+::: aside
+[@shenoy.etal_2019]
+:::
+
+<br>
+
+## Timing and clinical presentation of reaction is key
+
+<br>
+
+![](images/contraindications.png){fig-align="center"}
+
+::: aside
+[@shenoy.etal_2019]
+:::
+
+## How to assess patient risk
+
+<br>
+
+![](images/risk.png){fig-align="center"}
+
+::: aside
+[@shenoy.etal_2019]
+:::
+
+## PENFAST score {.smaller}
+
+![](images/penfast.png){fig-align="center" width="800"}
+
+::: aside
+The PEN-FAST clinical decision rule for patients reporting a penicillin allergy uses 3 clinical criteria of time from penicillin allergy episode, phenotype, and treatment required. A total score is calculated using PEN-FAST score in the upper panel,and interpretation for risk strategy is provided in the lower panel. ^a^Includes unknown. ^b^Forms of severe delayed reactions include potential Stevens-Johnsonsyndrome, toxic epidermalnecrolysis, drug reaction witheosinophilia and systemicsymptoms, and acute generalizedexanthematous pustulosis. Patients with a severe delayed rash withmucosal involvement should beconsidered to have a severecutaneous adverse reaction. Acute interstitial nephritis, drug inducedliver injury, serum sickness andisolated drug fever were excluded phenotypes from the derivation and validation cohorts.
+
+[@trubiano.etal_2020]
+:::
+
+## PENFAST performance
+
+<br>
+
+![](images/penfast_perf.png){fig-align="center"}
+
+::: .aside
+[@trubiano.etal_2020]
+:::
+
+## Direct oral amoxicillin challenge
+
+![](images/amox_challenge.png){fig-align="center"}
+
+::: .aside
+[@macy.etal_2023]
+:::
+
+## Two step oral amoxicillin challenge
+
+<br>
+
+![](images/2step.png){fig-align="center"}
+
+::: .aside
+[@macy.etal_2023]
+:::
+
+## Anaphylaxis medications
+
+![](images/anaphylaxis.png){fig-align="center"}
+
+::: .aside
+[@macy.etal_2023]
+:::
+
+## Skin testing
+
+![](images/skintest.png){fig-align="center"}
+
+::: .aside
+[@macy.etal_2023]
+:::
+
+## Allergic determinates {.smaller}
+
+:::::: columns
+::: {.column width="50%"}
+![](images/penicillins.png){width="200"}
+:::
+
+::: {.column width="50%"}
+![](images/minor.png){width="200"}
+:::
+
+::: .aside
+[@castells.etal_2019]
+:::
+::::::
+
 ## References
+
+<br>
