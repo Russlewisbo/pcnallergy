@@ -1,0 +1,37 @@
+---
+format:
+  revealjs:
+    spotlight: true
+    touch: true
+    controls: true
+    pointer: true
+    center-title-slide: false
+    transition: fade
+    transition-speed: fast
+    scrollable: true
+    slide-number: true
+    incremental: false
+    multiplex: false
+    chalkboard: true
+    theme: [default, custom.scss]
+    filters:
+     - highlight-text
+bibliography: references.bib
+lightbox: true
+csl: diagnostic-microbiology-and-infectious-disease.csl
+---
+
+## Lecture 1: Penicllin and antibiotic allergies {background-image="images/flemming1.png" background-opacity="0.2"}
+
+<br> <br> <br> <br> <br>
+
+**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
+
+![](images/unipd.png){.absolute top="550" left="950" width="100" height="100"}
+
+<br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
+
+## Agenda
+
+## Appropriate perspective
+
