@@ -21,7 +21,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Lecture 1: Penicllin and antibiotic allergies {background-image="images/flemming1.png" background-opacity="0.2"}
+## Lecture 1: Penicllin and antibiotic allergies {background-image="images/nejm_allergy.png" background-opacity="0.2"}
 
 <br> <br> <br> <br> <br>
 
