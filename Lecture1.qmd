@@ -233,10 +233,104 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 <br>
 
-![](images/coombs.png)
+![](images/coombs.png){width="800"}
 
-::: .aside
+::: aside
 [@hausmann.etal_2010]
 :::
+
+## Immunological mechanisms <br> {.smaller}
+
+![](images/nejm2.png){fig-align="center" width="400"}
+
+::: aside
+[@castells.etal_2019]
+:::
+
+## <br> <br> <br> <br> Penicillin allergy {background-image="images/amoxicillin.png" background-opacity="0.2"}
+
+## Penicillin allergy epidemiology
+
+<br>
+
+-   10-20% of patients will report a history of an allergy to PCN therapy 
+
+-   However, only 0.5%-2% of all PCN administrations actually result in hypersensitivity reactions, most often rash 
+
+    -   Of these 1% are IgE mediated 
+
+-   The incidence IgE PCN allergies is decreasing, partially due to the reduced use of parenteral PCN, which degradation products in solution may be the primary culprit 
+
+-   Statistics from the UK 1972-2007 oral amoxicillin:
+
+    -   1 death after anaphylaxis with oral amoxicillin (35 years and 100 million treatment courses)
+
+-   Most reports of penicillin allergy describe unknown or cutaneous reaction
+
+<br>
+
+## Public health implications {.smaller}
+
+![](images/public.png){fig-align="center" width="800"}
+
+::: aside
+[@castells.etal_2019]
+:::
+
+## So if a patient reports they have a <br> penicillin allergy... {.smaller}
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**5% need allergy evaluation**
+
+-   Recent history if true IgE type reaction
+
+-   Blistering rash
+
+-   Hemolytic anemia
+
+-   Nephritis
+
+-   Hepatitis
+
+-   Fever and joint pain
+
+-   Severe cutaneous adverse reaction (SCAR)
+:::
+
+::: {.column width="50"}
+**95% can tolerate penicillins**
+
+-   Delayed, benign rash (Type IV reaction) that often does not recur with rechallenge
+-   True IgE reactions wane over time, with 80% becoming tolerant after 10 years 
+-   Many patients were never allergic, but had other symptoms they though represented a PCN allergy (concurrent viral infection, GI distress)
+:::
+:::::
+
+## Top 4 patient penicillin allergy myths  {background-image="images/amoxicillin.png" background-opacity="0.2"}
+
+<br>
+
+-   **Once you have an penicillin allergy, you have it for life**
+
+    -   Allergy wanes over time, 80% of patients with type I (IgE-mediated reactions) will not have an allergy after a 10 year period
+
+-   **Viral rashes mistaken for antibiotic therapy**
+
+    -   E.g., child with a viral exanthematous rash treated with a course of penicillin
+
+    -   Pediatric studies have reported \>90% of children who developed rashes on antibiotic therapy do not develop a rash when rechallenged with penicillin again
+
+-   **Adverse effects mistaken by the patient as drug allergy**
+
+    -   E.g. diarrhea, stomach cramps
+
+-   **“I have a family history of penicillin allergy”**
+
+    -   No genetic basis has been identified for penicillin allergies
+
+<br>
 
 ## References
