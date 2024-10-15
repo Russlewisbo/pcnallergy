@@ -31,7 +31,212 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
 
-## Agenda
+## Objectives
 
-## Appropriate perspective
+-   Describe the different types of hypersensitivity reactions based on clinical presentation and immunological mechanisms 
 
+-   Recognise a patient history that will differentiate between immediate and delayed-type hypersensitivity reactions 
+
+-   Describe the risk of cross-reactions between various beta-lactam antibiotics 
+
+-   Describe the principles and contraindications for desensitisation
+
+-   Describe the clinical manifestations, diagnosis and management of common non-beta-lactam antibiotic allergies
+
+## On target vs. off-target drug effects
+
+![](images/classification.png){fig-align="center"}
+
+::: aside
+[@macy.etal_2023]
+:::
+
+## Variable cutaneous presentation of <br>allergic drug reactions
+
+<br>
+
+::::::: columns
+::: {.column width="25%"}
+![widespread macupapular](images/widespreadmacular.png)
+:::
+
+::: {.column width="25%"}
+![macupapular aspect](images/macupapular%20aspect.png)
+:::
+
+::: {.column width="25%"}
+![isolated follicular](images/isolated%20foilicular.png)
+:::
+
+::: {.column width="25%"}
+![coalescing erythema](images/coelscing%20erythema.png)
+:::
+:::::::
+
+::: aside
+Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## Urticaria and angioedema {.smaller}
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![urticaria](images/urticaria.png)
+:::
+
+::: {.column width="50%"}
+![angioedema](images/angioendema.png)
+:::
+:::::
+
+::: aside
+Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## **Acute generalised exanthematous pustulosis (AGEP)**
+
+<br> <br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/ten.png)
+:::
+
+::: {.column width="50%"}
+![](images/agep.png)
+:::
+:::::
+
+::: aside
+[@zhang.liu_2015]
+:::
+
+## Fixed drug eruption
+
+<br>
+
+![](images/fixed.png)
+
+::: aside
+Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## **Erythema multiforme, Toxic epidermal necrolysis (TEN)**
+
+<br>
+
+![](images/ten2.png)
+
+::: aside
+Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## **DRESS: Drug rash with eosinophilia** <br> and systemic symptoms {.smaller}
+
+::::: columns
+::: {.column width="40%"}
+-   **Latency:** 2-8 weeks
+
+-   **Non-specific symptoms:**
+
+    -   Fever (75%), lymphadenopathy (55-65%)
+
+-   **Hematological abnormalities:**
+
+    -   **Eosinophilia \> 700 micolL (85-95%)**
+
+    -   **Leukocytosis (95%)**
+
+    -   **Neutrophilia (78%)**
+
+    -   **Monocytosis (69%)**
+
+    -   **Atypical lymphocytosis (35-67%)**
+
+-   **Visceral involvement:**
+
+    -   **Liver (53-90%)-cholestatic and/or hepatocellular**
+
+    -   **Pulmonary (30%)-shortness of breath, cough**
+
+    -   **Cardiac involvement (2-20%)- hypotension, tachycardia, dyspnea, LV dysfunction, myocarditis**
+:::
+
+::: {.column width="60%"}
+![](images/dress.png)
+:::
+:::::
+
+::: aside
+Image: UptoDate
+:::
+
+## DRESS: Pathophysiology <br> and systemic symptoms {.smaller}
+
+<br> <br>
+
+::::: columns
+::: {.column width="40%"}
+-   **Pathophysiology:**
+
+    -   Type IV T-cell activation (CD4+/CD8+) producing TNF-α
+
+    -   Reactivation of viruses from the Herpesviridae family (eg, HHV-6, HHV-7, Epstein-Barr virus \[EBV\], cytomegalovirus \[CMV\]) occurs in up to 75 percent of patients-cause or consequence? 
+
+    -   Some patient human leukocyte antigens are associated with higher risk
+:::
+
+::: {.column width="60%"}
+![](images/dress.png)
+:::
+:::::
+
+::: aside
+Image: UptoDate
+:::
+
+## Classic "high-risk" drugs for DRESS
+
+<br>
+
+-   Allopurinol
+
+-   Aromatic antiepileptic agents (carbamazepine, phenytoin, lamotrigine, …)
+
+-   Sulfonamides
+
+-   Vancomycin
+
+-   Minocycline
+
+-   Nevirapine
+
+-   Anti-tuberculosis drugs
+
+-   Mexiletine
+
+**β-lactams are lower risk**
+
+## Stevens-Johnson Syndrome
+
+<br> <br>
+
+![](images/SJ.png)
+
+::: aside
+Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## Modified Gell and Coombs Classification
+
+<br>
+
+![](images/coombs.png)
+
+::: .aside
+[@hausmann.etal_2010]
+:::
+
+## References
