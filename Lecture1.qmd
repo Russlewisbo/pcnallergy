@@ -615,14 +615,20 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 -   Mechanisms IgE-mediated are known to occur, but other poorly understood direct T-cell mediated mechanisms are more likely to be responsible
 -   Higher incidence of reactions in patients with HIV/AIDS, tuberculosis
 
-Mechanism of sulfonamide hypersensitivity
+## Mechanism of sulfonamide hypersensitivity {.smaller}
 
-<br>
-
-![](images/sulfallergy.png)
+![](images/sulfallergy.png){fig-align="center" width="800"}
 
 ::: aside
 [@slatore.tilles_2004]
+:::
+
+## PENFAST score applied to sulfa allergies
+
+![](images/sulfast.png){fig-align="center"}
+
+::: .aside
+[@waldron.etal_2023]
 :::
 
 ## Summary {background-image="images/nejm_allergy.png" background-opacity="0.2"}
