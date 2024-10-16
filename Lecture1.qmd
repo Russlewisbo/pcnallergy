@@ -627,11 +627,49 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 ![](images/sulfast.png){fig-align="center"}
 
-::: .aside
+::: aside
 [@waldron.etal_2023]
 :::
 
-## Summary {background-image="images/nejm_allergy.png" background-opacity="0.2"}
+## Non-sensitizing allergic reactions
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/receptors.png)
+:::
+
+::: {.column width="50%"}
+-   Mas-related G protein coupled receptor (MRGPRX2)
+-   Neuromuscular blocking agents
+-   Opioids
+-   Radiocontrast media
+-   Vancomycin, glycopeptides, fluoroquinolones
+-   Complement-activation-related pseudoallergy (CARPA)
+-   Liposomes, drug carriers
+:::
+:::::
+
+::: aside
+[@ebo.etal_2019]
+:::
+
+## Vancomycin infusion reaction <br> "red man syndrome"
+
+::::: columns
+::: {.column width="50%"}
+![](images/redman.png)
+:::
+
+::: {.column width="50%"}
+-   Vancomycin can also cause:
+    -   Hypotension, anaphylaxis
+    -   Maculopapular exanthems
+    -   Vasculitis E
+    -   Eosinophilia Exfoliative dermatitis/DRESS/Stephens-Johnson
+:::
+:::::
 
 <br>
 
@@ -640,6 +678,10 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 -   Cross-reactivity rates are low with current cephalosporins and carbapenems, but can alternatively be addressed through antibiotic challenges and skin testing
 -   Desensitization can be attempted in specific cases when a particular antibiotic is needed for IgE-mediated reactions
 -   Some antibiotics cause non-immune-related hypersensitivity reactions that can be managed by slowing infusions and administering antihistamines
+
+::: .aside
+[@alvarez-arango.etal_2021]
+:::
 
 ## References
 
