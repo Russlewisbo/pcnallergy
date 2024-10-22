@@ -21,7 +21,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Lecture 1: Penicillin and antibiotic allergies {background-image="images/nejm_allergy.png" background-opacity="0.2"}
+## Lecture 5: Penicillin and antibiotic allergies {background-image="images/nejm_allergy.png" background-opacity="0.2"}
 
 <br> <br> <br> <br> <br>
 
@@ -32,8 +32,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
 
 ## Objectives
-
-# \## Appropriate perspective
 
 -   Describe the different types of hypersensitivity reactions based on clinical presentation and immunological mechanisms 
 
@@ -370,7 +368,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 ![](images/penfast.png){fig-align="center" width="800"}
 
 ::: aside
-The PEN-FAST clinical decision rule for patients reporting a penicillin allergy uses 3 clinical criteria of time from penicillin allergy episode, phenotype, and treatment required. A total score is calculated using PEN-FAST score in the upper panel,and interpretation for risk strategy is provided in the lower panel. ^a^Includes unknown. ^b^Forms of severe delayed reactions include potential Stevens-Johnsonsyndrome, toxic epidermalnecrolysis, drug reaction witheosinophilia and systemicsymptoms, and acute generalizedexanthematous pustulosis. Patients with a severe delayed rash withmucosal involvement should beconsidered to have a severecutaneous adverse reaction. Acute interstitial nephritis, drug inducedliver injury, serum sickness andisolated drug fever were excluded phenotypes from the derivation and validation cohorts.
+The PEN-FAST clinical decision rule for patients reporting a penicillin allergy uses 3 clinical criteria of time from penicillin allergy episode, phenotype, and treatment required. A total score is calculated using PEN-FAST score in the upper panel,and interpretation for risk strategy is provided in the lower panel. ^a^Includes unknown. ^b^Forms of severe delayed reactions include potential Stevens-Johnson syndrome, toxic epidermalnecrolysis, drug reaction with eosinophilia and systemic symptoms, and acute generalizedexanthematous pustulosis. Patients with a severe delayed rash with mucosal involvement should be considered to have a severe cutaneous adverse reaction. Acute interstitial nephritis, drug induced liver injury, serum sickness and isolated drug fever were excluded phenotypes from the derivation and validation cohorts.
 
 [@trubiano.etal_2020]
 :::
