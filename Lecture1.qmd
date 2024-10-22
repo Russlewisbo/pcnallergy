@@ -31,6 +31,660 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
 
-## Agenda
+## Objectives
 
-## Appropriate perspective
+# \## Appropriate perspective
+
+-   Describe the different types of hypersensitivity reactions based on clinical presentation and immunological mechanisms 
+
+-   Recognise a patient history that will differentiate between immediate and delayed-type hypersensitivity reactions 
+
+-   Describe the risk of cross-reactions between various beta-lactam antibiotics 
+
+-   Describe the principles and contraindications for desensitisation
+
+-   Describe the clinical manifestations, diagnosis and management of common non-beta-lactam antibiotic allergies
+
+## On target vs. off-target drug effects
+
+![](images/classification.png){fig-align="center"}
+
+::: aside
+[@macy.etal_2023]
+:::
+
+## Variable cutaneous presentation of <br>allergic drug reactions
+
+<br>
+
+::::::: columns
+::: {.column width="25%"}
+![widespread macupapular](images/widespreadmacular.png)
+:::
+
+::: {.column width="25%"}
+![macupapular aspect](images/macupapular%20aspect.png)
+:::
+
+::: {.column width="25%"}
+![isolated follicular](images/isolated%20foilicular.png)
+:::
+
+::: {.column width="25%"}
+![coalescing erythema](images/coelscing%20erythema.png)
+:::
+:::::::
+
+::: aside
+Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## Urticaria and angioedema {.smaller}
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![urticaria](images/urticaria.png)
+:::
+
+::: {.column width="50%"}
+![angioedema](images/angioendema.png)
+:::
+:::::
+
+::: aside
+Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## **Acute generalised exanthematous pustulosis (AGEP)**
+
+<br> <br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/ten.png)
+:::
+
+::: {.column width="50%"}
+![](images/agep.png)
+:::
+:::::
+
+::: aside
+[@zhang.liu_2015]
+:::
+
+## Fixed drug eruption
+
+<br>
+
+![](images/fixed.png)
+
+::: aside
+Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## **Erythema multiforme, Toxic epidermal necrolysis (TEN)**
+
+<br>
+
+![](images/ten2.png)
+
+::: aside
+Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## **DRESS: Drug rash with eosinophilia** <br> and systemic symptoms {.smaller}
+
+::::: columns
+::: {.column width="40%"}
+-   **Latency:** 2-8 weeks
+
+-   **Non-specific symptoms:**
+
+    -   Fever (75%), lymphadenopathy (55-65%)
+
+-   **Hematological abnormalities:**
+
+    -   **Eosinophilia \> 700 micolL (85-95%)**
+
+    -   **Leukocytosis (95%)**
+
+    -   **Neutrophilia (78%)**
+
+    -   **Monocytosis (69%)**
+
+    -   **Atypical lymphocytosis (35-67%)**
+
+-   **Visceral involvement:**
+
+    -   **Liver (53-90%)-cholestatic and/or hepatocellular**
+
+    -   **Pulmonary (30%)-shortness of breath, cough**
+
+    -   **Cardiac involvement (2-20%)- hypotension, tachycardia, dyspnea, LV dysfunction, myocarditis**
+:::
+
+::: {.column width="60%"}
+![](images/dress.png)
+:::
+:::::
+
+::: aside
+Image: UptoDate
+:::
+
+## DRESS: Pathophysiology <br> and systemic symptoms {.smaller}
+
+<br> <br>
+
+::::: columns
+::: {.column width="40%"}
+-   **Pathophysiology:**
+
+    -   Type IV T-cell activation (CD4+/CD8+) producing TNF-α
+
+    -   Reactivation of viruses from the Herpesviridae family (eg, HHV-6, HHV-7, Epstein-Barr virus \[EBV\], cytomegalovirus \[CMV\]) occurs in up to 75 percent of patients-cause or consequence? 
+
+    -   Some patient human leukocyte antigens are associated with higher risk
+:::
+
+::: {.column width="60%"}
+![](images/dress.png)
+:::
+:::::
+
+::: aside
+Image: UptoDate
+:::
+
+## Classic "high-risk" drugs for DRESS
+
+<br>
+
+-   Allopurinol
+
+-   Aromatic antiepileptic agents (carbamazepine, phenytoin, lamotrigine, …)
+
+-   Sulfonamides
+
+-   Vancomycin
+
+-   Minocycline
+
+-   Nevirapine
+
+-   Anti-tuberculosis drugs
+
+-   Mexiletine
+
+**β-lactams are lower risk**
+
+## Stevens-Johnson Syndrome
+
+<br> <br>
+
+![](images/SJ.png)
+
+::: aside
+Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## Modified Gell and Coombs Classification
+
+<br>
+
+![](images/coombs.png){width="800"}
+
+::: aside
+[@hausmann.etal_2010]
+:::
+
+## Immunological mechanisms <br> {.smaller}
+
+![](images/nejm2.png){fig-align="center" width="400"}
+
+::: aside
+[@castells.etal_2019]
+:::
+
+## <br> <br> <br> <br> Penicillin allergy {background-image="images/amoxicillin.png" background-opacity="0.2"}
+
+## Penicillin allergy epidemiology
+
+<br>
+
+-   10-20% of patients will report a history of an allergy to PCN therapy 
+
+-   However, only 0.5%-2% of all PCN administrations actually result in hypersensitivity reactions, most often rash 
+
+    -   Of these 1% are IgE mediated 
+
+-   The incidence IgE PCN allergies is decreasing, partially due to the reduced use of parenteral PCN, which degradation products in solution may be the primary culprit 
+
+-   Statistics from the UK 1972-2007 oral amoxicillin:
+
+    -   1 death after anaphylaxis with oral amoxicillin (35 years and 100 million treatment courses)
+
+-   Most reports of penicillin allergy describe unknown or cutaneous reaction
+
+<br>
+
+## Public health implications {.smaller}
+
+![](images/public.png){fig-align="center" width="800"}
+
+::: aside
+[@castells.etal_2019]
+:::
+
+## So if a patient reports they have a <br> penicillin allergy... {.smaller}
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**5% need allergy evaluation**
+
+-   Recent history if true IgE type reaction
+
+-   Blistering rash
+
+-   Hemolytic anemia
+
+-   Nephritis
+
+-   Hepatitis
+
+-   Fever and joint pain
+
+-   Severe cutaneous adverse reaction (SCAR)
+:::
+
+::: {.column width="50"}
+**95% can tolerate penicillins**
+
+-   Delayed, benign rash (Type IV reaction) that often does not recur with rechallenge
+-   True IgE reactions wane over time, with 80% becoming tolerant after 10 years 
+-   Many patients were never allergic, but had other symptoms they though represented a PCN allergy (concurrent viral infection, GI distress)
+:::
+:::::
+
+## Top 4 patient penicillin allergy myths {background-image="images/amoxicillin.png" background-opacity="0.2"}
+
+<br>
+
+-   **Once you have an penicillin allergy, you have it for life**
+
+    -   Allergy wanes over time, 80% of patients with type I (IgE-mediated reactions) will not have an allergy after a 10 year period
+
+-   **Viral rashes mistaken for antibiotic therapy**
+
+    -   E.g., child with a viral exanthematous rash treated with a course of penicillin
+
+    -   Pediatric studies have reported \>90% of children who developed rashes on antibiotic therapy do not develop a rash when rechallenged with penicillin again
+
+-   **Adverse effects mistaken by the patient as drug allergy**
+
+    -   E.g. diarrhea, stomach cramps
+
+-   **“I have a family history of penicillin allergy”**
+
+    -   No genetic basis has been identified for penicillin allergies
+
+## Penicillin allergy history
+
+<br>
+
+![](images/history.png){fig-align="center"}
+
+::: aside
+[@shenoy.etal_2019]
+:::
+
+<br>
+
+## Timing and clinical presentation of reaction is key
+
+<br>
+
+![](images/contraindications.png){fig-align="center"}
+
+::: aside
+[@shenoy.etal_2019]
+:::
+
+## How to assess patient risk
+
+<br>
+
+![](images/risk.png){fig-align="center"}
+
+::: aside
+[@shenoy.etal_2019]
+:::
+
+## PENFAST score {.smaller}
+
+![](images/penfast.png){fig-align="center" width="800"}
+
+::: aside
+The PEN-FAST clinical decision rule for patients reporting a penicillin allergy uses 3 clinical criteria of time from penicillin allergy episode, phenotype, and treatment required. A total score is calculated using PEN-FAST score in the upper panel,and interpretation for risk strategy is provided in the lower panel. ^a^Includes unknown. ^b^Forms of severe delayed reactions include potential Stevens-Johnsonsyndrome, toxic epidermalnecrolysis, drug reaction witheosinophilia and systemicsymptoms, and acute generalizedexanthematous pustulosis. Patients with a severe delayed rash withmucosal involvement should beconsidered to have a severecutaneous adverse reaction. Acute interstitial nephritis, drug inducedliver injury, serum sickness andisolated drug fever were excluded phenotypes from the derivation and validation cohorts.
+
+[@trubiano.etal_2020]
+:::
+
+## PENFAST performance
+
+<br>
+
+![](images/penfast_perf.png){fig-align="center"}
+
+::: aside
+[@trubiano.etal_2020]
+:::
+
+## Direct oral amoxicillin challenge
+
+![](images/amox_challenge.png){fig-align="center"}
+
+::: aside
+[@macy.etal_2023]
+:::
+
+## Palace study
+
+![](images/Palace.png){fig-align="center"}
+
+::: aside
+[@copaescu.etal_2023]
+:::
+
+## Two step oral amoxicillin challenge
+
+<br>
+
+![](images/2step.png){fig-align="center"}
+
+::: aside
+[@macy.etal_2023]
+:::
+
+## Anaphylaxis medications
+
+![](images/anaphylaxis.png){fig-align="center"}
+
+::: aside
+[@macy.etal_2023]
+:::
+
+## How to assess patient risk
+
+<br>
+
+![](images/risk.png){fig-align="center"}
+
+::: aside
+[@shenoy.etal_2019]
+:::
+
+## Skin testing
+
+![](images/skintest.png){fig-align="center"}
+
+::: aside
+[@macy.etal_2023]
+:::
+
+## Allergic determinates {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+![](images/penicillins.png){fig-align="center" width="250"}
+:::
+
+::: {.column width="50%"}
+![](images/minor.png){fig-align="center" width="250"}
+:::
+:::::
+
+::: aside
+[@castells.etal_2019]
+:::
+
+## Penicillin skin test asssessment
+
+![](images/skintest2.png){fig-align="center"}
+
+::: aside
+[@macy.etal_2023]
+:::
+
+## Penicillin skin test assessment-Medium risk history
+
+![](images/medium%20risk.png){fig-align="center"}
+
+::: aside
+[@macy.etal_2023]
+:::
+
+## How do these test impact "medium risk" patients?
+
+<br>
+
+-   A negative skin test is associated with a 95% NPV for PCN allergy
+-   A negative skin test plus negative amoxicillin challenge approaches 100% NPV for PCN allergy
+-   If skin test is positive, amoxicillin challenge is not considered
+-   Patient should be referred to an allergy/immunologist or desensitisation considered
+
+## Desensitization
+
+<br>
+
+-   Progressive, graded degranulation of mast cells (histamine release) by administering graded doses of antibiotic
+-   Desensitization is contraindicated in patients with a history of a penicillin-induced exfoliative dermatitis, Stevens-Johnson syndrome, or toxic epidermal necrolysis
+-   Desensitization has no effect on the incidence of non-IgE mediated reactions such as serum sickness, hemolytic anemia, maculopapular rashes, drug fever, hepatitis, or interstitial nephritis
+-   If the patient does not receive a dose for a period of more than 24 hours, the risk for an immediate IgE-mediated reaction can be restored and repeat desensitization is required if the same drug is to be used again
+
+## Sample desensitization protocol
+
+![](images/meropenem.png){fig-align="center"}
+
+::: aside
+Source: MD Anderson Cancer Center, Houston, Texas
+:::
+
+## Other desensitization protocols
+
+![](images/Sanford.png){fig-align="center"}
+
+## Cross-reactivity: Infectious diseases dogma
+
+::::: columns
+::: {.column width="50%"}
+-   Common teaching: If a patient has a documented PCN allergy, the risk of cross reactions with cephalosporins is 10%
+-   THIS IS FALSE, the actual cross reactivity is more likely 2%-3%
+    -   A subset of patients with history of anaphylaxis may have cross-reactivity determined by the R1 sidechain of the molecule
+    -   Cefazolin as a unique side chain and and very low risk for cross-reactivity
+:::
+
+::: {.column width="50%"}
+![](images/sidechains.png)
+:::
+:::::
+
+<br>
+
+## Risk of cross-reactivity related to cephalosporin sidechain
+
+<br>
+
+![](images/cross-reactivity.png){fig-align="center"}
+
+::: aside
+Source: Stanford University Hospital Antimicrobial Stewardship
+:::
+
+## What is the cross-reactivity with carbapenems?
+
+<br>
+
+-   Cross reactivity with penicillin allergy and carbapenems is less than 1%
+-   No cross reactivity between penicillins and monobactams (aztreonam)
+-   A graded challenge or test dose can be considered:
+    -   i.e. Infuse 5-10% of dose and observe patient, then progress to full dose if not reaction
+    -   Skin testing (if available) could also rule out allergies
+
+## Special populations that should be <br> considered for testing {.smaller}
+
+<br>
+
+-   **Peri-procedure before elective surgery**
+    -   Importance of antibiotic timing/tissue levels at time of incision-less optimal with vancomycin that requires longer infusion
+-   **Pregnancy**
+    -   PCN allergy associated with increased risk of cesarean delivery, post-cesarean wound complications, and longer length of stay
+    -   Consider third trimester referral for testing in patients with planned cesarean delivery, group B streptococcus colonization
+-   **Long term care facilities**
+    -   Non-beta-lactam based therapies have higher risk for drug interactions
+    -   Higher risk for adverse effects
+-   **Hematology-oncology**
+    -   Consider testing before chemotherapy or transplant (onset of of immunosuppression)
+-   **STD clinics**
+-   **ICU patients?**
+
+## <br> <br> <br> <br> Non-penicillin allergies? {background-image="images/TMPSMX.png" background-opacity="0.2"}
+
+## Similar principles- patient history is key
+
+<br>
+
+-   Which drugs was the patient taking?
+-   Dates of intake
+-   Exact sequence of events
+-   Underlying disease/Concomitant infections
+-   Other drug administered at the same time/concomitant infections
+-   Clinical morphology (at several time points)of rash
+-   Histology of eosinophilia?
+
+## Intradermal testing-Non beta-lactams
+
+::::: columns
+::: {.column width="50%"}
+![](images/intradermal.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+-   Prick and intradermal tests less well standardized S
+-   Some antibiotics are irritating even at low concentrations, making testing difficult
+-   Special cellular activation tests may be available in some centers for some drugs
+:::
+:::::
+
+::: aside
+Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## Approach to delayed-type hypersensitivity testing
+
+::::: columns
+::: {.column width="50%"}
+![](images/Patch.png)
+:::
+
+::: {.column width="50%"}
+-   Intradermal or patch testing with reading 24-72 hours
+    -   Low sensitivity, high specificity
+-   Lymphocyte transformation testing
+    -   Available in specialized laboratories
+    -   Haptenization to become an antigen in vivo (hard to imitate in lab)
+:::
+:::::
+
+::: aside
+Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## Sulfonamide hypersensitivity
+
+<br>
+
+-   Incidence 8%
+-   Primarily cutaneous and GI tract
+-   Only 3% are considered true hypersensitivity reactions.
+    -   Most common presentations are limited exanthems and fixed drug eruptions
+    -   However...sulfonamides are disproportionately associated with infrequent severe side effects (i.e. TEN, Stevens-Johnson Syndrome)
+-   Mechanisms IgE-mediated are known to occur, but other poorly understood direct T-cell mediated mechanisms are more likely to be responsible
+-   Higher incidence of reactions in patients with HIV/AIDS, tuberculosis
+
+## Mechanism of sulfonamide hypersensitivity {.smaller}
+
+![](images/sulfallergy.png){fig-align="center" width="800"}
+
+::: aside
+[@slatore.tilles_2004]
+:::
+
+## PENFAST score applied to sulfa allergies
+
+![](images/sulfast.png){fig-align="center"}
+
+::: aside
+[@waldron.etal_2023]
+:::
+
+## Non-sensitizing allergic reactions
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+![](images/receptors.png)
+:::
+
+::: {.column width="50%"}
+-   Mas-related G protein coupled receptor (MRGPRX2)
+-   Neuromuscular blocking agents
+-   Opioids
+-   Radiocontrast media
+-   Vancomycin, glycopeptides, fluoroquinolones
+-   Complement-activation-related pseudoallergy (CARPA)
+-   Liposomes, drug carriers
+:::
+:::::
+
+::: aside
+[@ebo.etal_2019]
+:::
+
+## Vancomycin infusion reaction <br> "red man syndrome"
+
+::::: columns
+::: {.column width="50%"}
+![](images/redman.png)
+:::
+
+::: {.column width="50%"}
+-   Vancomycin can also cause:
+    -   Hypotension, anaphylaxis
+    -   Maculopapular exanthems
+    -   Vasculitis E
+    -   Eosinophilia Exfoliative dermatitis/DRESS/Stephens-Johnson
+:::
+:::::
+
+<br>
+
+-   Penicillin allergies are the most common “contraindication” to antibiotic therapy, but most histories do not represent true allergies
+-   A systematic approach can be used to evaluate and potentially “de-label” patients with penicillin allergy
+-   Cross-reactivity rates are low with current cephalosporins and carbapenems, but can alternatively be addressed through antibiotic challenges and skin testing
+-   Desensitization can be attempted in specific cases when a particular antibiotic is needed for IgE-mediated reactions
+-   Some antibiotics cause non-immune-related hypersensitivity reactions that can be managed by slowing infusions and administering antihistamines
+
+::: aside
+[@alvarez-arango.etal_2021]
+:::
+
+## References
+
+<br>

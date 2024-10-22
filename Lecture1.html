@@ -33,7 +33,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="Lecture1_files/libs/revealjs/dist/theme/quarto.css">
   <link href="Lecture1_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="Lecture1_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -333,24 +353,766 @@
     <div class="slides">
 
 
-<section id="lecture-1-penicllin-and-antibiotic-allergies" class="slide level2" data-background-image="images/nejm_allergy.png" data-background-opacity="0.2">
-<h2>Lecture 1: Penicllin and antibiotic allergies</h2>
+<section id="lecture-1-penicillin-and-antibiotic-allergies" class="slide level2" data-background-image="images/nejm_allergy.png" data-background-opacity="0.2">
+<h2>Lecture 1: Penicillin and antibiotic allergies</h2>
 <p><br> <br> <br> <br> <br></p>
 <p><strong>Russell E. Lewis</strong> <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua</p>
 <p><a href="images/unipd.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img data-src="images/unipd.png" class="absolute" style="top: 550px; left: 950px; width: 100px; height: 100px; "></a></p>
 <p><br> <i class="fa-solid fa-envelope fa-1x" aria-label="envelope"></i> russelledward.lewis@unipd.it <br> <i class="fa-brands fa-github fa-1x" aria-label="github"></i> <a href="https://github.com/Russlewisbo/ESCMID_2022_talk">https://github.com/Russlewisbo</a></p>
 </section>
-<section id="agenda" class="slide level2">
-<h2>Agenda</h2>
+<section id="objectives" class="slide level2">
+<h2>Objectives</h2>
 </section>
-<section id="appropriate-perspective" class="slide level2">
-<h2>Appropriate perspective</h2>
+<section>
+<section id="appropriate-perspective" class="title-slide slide level1">
+<h1>## Appropriate perspective</h1>
+<ul>
+<li><p>Describe the different types of hypersensitivity reactions based on clinical presentation and immunological mechanisms&nbsp;</p></li>
+<li><p>Recognise a patient history that will differentiate between immediate and delayed-type hypersensitivity reactions&nbsp;</p></li>
+<li><p>Describe the risk of cross-reactions between various beta-lactam antibiotics&nbsp;</p></li>
+<li><p>Describe the principles and contraindications for desensitisation</p></li>
+<li><p>Describe the clinical manifestations, diagnosis and management of common non-beta-lactam antibiotic allergies</p></li>
+</ul>
+</section>
+<section id="on-target-vs.-off-target-drug-effects" class="slide level2">
+<h2>On target vs.&nbsp;off-target drug effects</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/classification.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img data-src="images/classification.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="macy.etal_2023">(<a href="#/references" role="doc-biblioref" onclick="">Macy et al., 2023</a>)</span></p>
+</div></aside></section>
+<section id="variable-cutaneous-presentation-of-allergic-drug-reactions" class="slide level2">
+<h2>Variable cutaneous presentation of <br>allergic drug reactions</h2>
+<p><br></p>
+<div class="columns">
+<div class="column" style="width:25%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/widespreadmacular.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="widespread macupapular"><img data-src="images/widespreadmacular.png" alt="widespread macupapular"></a></p>
+<figcaption>widespread macupapular</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:25%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/macupapular%20aspect.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="macupapular aspect"><img data-src="images/macupapular%20aspect.png" alt="macupapular aspect"></a></p>
+<figcaption>macupapular aspect</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:25%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/isolated%20foilicular.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="isolated follicular"><img data-src="images/isolated%20foilicular.png" alt="isolated follicular"></a></p>
+<figcaption>isolated follicular</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:25%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/coelscing%20erythema.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6" title="coalescing erythema"><img data-src="images/coelscing%20erythema.png" alt="coalescing erythema"></a></p>
+<figcaption>coalescing erythema</figcaption>
+</figure>
+</div>
+</div></div>
+
+<aside><div>
+<p>Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel</p>
+</div></aside></section>
+<section id="urticaria-and-angioedema" class="slide level2 smaller">
+<h2>Urticaria and angioedema</h2>
+<p><br></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/urticaria.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7" title="urticaria"><img data-src="images/urticaria.png" alt="urticaria"></a></p>
+<figcaption>urticaria</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/angioendema.png" class="lightbox" data-gallery="quarto-lightbox-gallery-8" title="angioedema"><img data-src="images/angioendema.png" alt="angioedema"></a></p>
+<figcaption>angioedema</figcaption>
+</figure>
+</div>
+</div></div>
+
+<aside><div>
+<p>Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel</p>
+</div></aside></section>
+<section id="acute-generalised-exanthematous-pustulosis-agep" class="slide level2">
+<h2><strong>Acute generalised exanthematous pustulosis (AGEP)</strong></h2>
+<p><br> <br></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><a href="images/ten.png" class="lightbox" data-gallery="quarto-lightbox-gallery-9"><img data-src="images/ten.png"></a></p>
+</div><div class="column" style="width:50%;">
+<p><a href="images/agep.png" class="lightbox" data-gallery="quarto-lightbox-gallery-10"><img data-src="images/agep.png"></a></p>
+</div></div>
+
+<aside><div>
+<p><span class="citation" data-cites="zhang.liu_2015">(<a href="#/references" role="doc-biblioref" onclick="">Zhang and Liu, 2015</a>)</span></p>
+</div></aside></section>
+<section id="fixed-drug-eruption" class="slide level2">
+<h2>Fixed drug eruption</h2>
+<p><br></p>
+<p><a href="images/fixed.png" class="lightbox" data-gallery="quarto-lightbox-gallery-11"><img data-src="images/fixed.png"></a></p>
+
+<aside><div>
+<p>Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel</p>
+</div></aside></section>
+<section id="erythema-multiforme-toxic-epidermal-necrolysis-ten" class="slide level2">
+<h2><strong>Erythema multiforme, Toxic epidermal necrolysis (TEN)</strong></h2>
+<p><br></p>
+<p><a href="images/ten2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-12"><img data-src="images/ten2.png"></a></p>
+
+<aside><div>
+<p>Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel</p>
+</div></aside></section>
+<section id="dress-drug-rash-with-eosinophilia-and-systemic-symptoms" class="slide level2 smaller">
+<h2><strong>DRESS: Drug rash with eosinophilia</strong> <br> and systemic symptoms</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<ul>
+<li><p><strong>Latency:</strong> 2-8 weeks</p></li>
+<li><p><strong>Non-specific symptoms:</strong></p>
+<ul>
+<li>Fever (75%), lymphadenopathy (55-65%)</li>
+</ul></li>
+<li><p><strong>Hematological abnormalities:</strong></p>
+<ul>
+<li><p><strong>Eosinophilia &gt; 700 micolL (85-95%)</strong></p></li>
+<li><p><strong>Leukocytosis (95%)</strong></p></li>
+<li><p><strong>Neutrophilia (78%)</strong></p></li>
+<li><p><strong>Monocytosis (69%)</strong></p></li>
+<li><p><strong>Atypical lymphocytosis (35-67%)</strong></p></li>
+</ul></li>
+<li><p><strong>Visceral involvement:</strong></p>
+<ul>
+<li><p><strong>Liver (53-90%)-cholestatic and/or hepatocellular</strong></p></li>
+<li><p><strong>Pulmonary (30%)-shortness of breath, cough</strong></p></li>
+<li><p><strong>Cardiac involvement (2-20%)- hypotension, tachycardia, dyspnea, LV dysfunction, myocarditis</strong></p></li>
+</ul></li>
+</ul>
+</div><div class="column" style="width:60%;">
+<p><a href="images/dress.png" class="lightbox" data-gallery="quarto-lightbox-gallery-13"><img data-src="images/dress.png"></a></p>
+</div></div>
+
+<aside><div>
+<p>Image: UptoDate</p>
+</div></aside></section>
+<section id="dress-pathophysiology-and-systemic-symptoms" class="slide level2 smaller">
+<h2>DRESS: Pathophysiology <br> and systemic symptoms</h2>
+<p><br> <br></p>
+<div class="columns">
+<div class="column" style="width:40%;">
+<ul>
+<li><p><strong>Pathophysiology:</strong></p>
+<ul>
+<li><p>Type IV T-cell activation (CD4+/CD8+) producing TNF-α</p></li>
+<li><p>Reactivation of viruses from the Herpesviridae family (eg, HHV-6, HHV-7, Epstein-Barr virus [EBV], cytomegalovirus [CMV]) occurs in up to 75 percent of patients-cause or consequence?&nbsp;</p></li>
+<li><p>Some patient human leukocyte antigens are associated with higher risk</p></li>
+</ul></li>
+</ul>
+</div><div class="column" style="width:60%;">
+<p><a href="images/dress.png" class="lightbox" data-gallery="quarto-lightbox-gallery-14"><img data-src="images/dress.png"></a></p>
+</div></div>
+
+<aside><div>
+<p>Image: UptoDate</p>
+</div></aside></section>
+<section id="classic-high-risk-drugs-for-dress" class="slide level2">
+<h2>Classic “high-risk” drugs for DRESS</h2>
+<p><br></p>
+<ul>
+<li><p>Allopurinol</p></li>
+<li><p>Aromatic antiepileptic agents (carbamazepine, phenytoin, lamotrigine, …)</p></li>
+<li><p>Sulfonamides</p></li>
+<li><p>Vancomycin</p></li>
+<li><p>Minocycline</p></li>
+<li><p>Nevirapine</p></li>
+<li><p>Anti-tuberculosis drugs</p></li>
+<li><p>Mexiletine</p></li>
+</ul>
+<p><strong>β-lactams are lower risk</strong></p>
+</section>
+<section id="stevens-johnson-syndrome" class="slide level2">
+<h2>Stevens-Johnson Syndrome</h2>
+<p><br> <br></p>
+<p><a href="images/SJ.png" class="lightbox" data-gallery="quarto-lightbox-gallery-15"><img data-src="images/SJ.png"></a></p>
+
+<aside><div>
+<p>Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel</p>
+</div></aside></section>
+<section id="modified-gell-and-coombs-classification" class="slide level2">
+<h2>Modified Gell and Coombs Classification</h2>
+<p><br></p>
+<p><a href="images/coombs.png" class="lightbox" data-gallery="quarto-lightbox-gallery-16"><img data-src="images/coombs.png" width="800"></a></p>
+
+<aside><div>
+<p><span class="citation" data-cites="hausmann.etal_2010">(<a href="#/references" role="doc-biblioref" onclick="">Hausmann et al., 2010</a>)</span></p>
+</div></aside></section>
+<section id="immunological-mechanisms" class="slide level2 smaller">
+<h2>Immunological mechanisms <br></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/nejm2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-17"><img data-src="images/nejm2.png" class="quarto-figure quarto-figure-center" width="400"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="castells.etal_2019">(<a href="#/references" role="doc-biblioref" onclick="">Castells et al., 2019</a>)</span></p>
+</div></aside></section>
+<section id="penicillin-allergy" class="slide level2" data-background-image="images/amoxicillin.png" data-background-opacity="0.2">
+<h2><br> <br> <br> <br> Penicillin allergy</h2>
+</section>
+<section id="penicillin-allergy-epidemiology" class="slide level2">
+<h2>Penicillin allergy epidemiology</h2>
+<p><br></p>
+<ul>
+<li><p>10-20% of patients will report a history of an allergy to PCN therapy&nbsp;</p></li>
+<li><p>However, only 0.5%-2% of all PCN administrations actually result in hypersensitivity reactions, most often rash&nbsp;</p>
+<ul>
+<li>Of these 1% are IgE mediated&nbsp;</li>
+</ul></li>
+<li><p>The incidence IgE PCN allergies is decreasing, partially due to the reduced use of parenteral PCN, which degradation products in solution may be the primary culprit&nbsp;</p></li>
+<li><p>Statistics from the UK 1972-2007 oral amoxicillin:</p>
+<ul>
+<li>1 death after anaphylaxis with oral amoxicillin (35 years and 100 million treatment courses)</li>
+</ul></li>
+<li><p>Most reports of penicillin allergy describe unknown or cutaneous reaction</p></li>
+</ul>
+<p><br></p>
+</section>
+<section id="public-health-implications" class="slide level2 smaller">
+<h2>Public health implications</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/public.png" class="lightbox" data-gallery="quarto-lightbox-gallery-18"><img data-src="images/public.png" class="quarto-figure quarto-figure-center" width="800"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="castells.etal_2019">(<a href="#/references" role="doc-biblioref" onclick="">Castells et al., 2019</a>)</span></p>
+</div></aside></section>
+<section id="so-if-a-patient-reports-they-have-a-penicillin-allergy" class="slide level2 smaller">
+<h2>So if a patient reports they have a <br> penicillin allergy…</h2>
+<p><br></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><strong>5% need allergy evaluation</strong></p>
+<ul>
+<li><p>Recent history if true IgE type reaction</p></li>
+<li><p>Blistering rash</p></li>
+<li><p>Hemolytic anemia</p></li>
+<li><p>Nephritis</p></li>
+<li><p>Hepatitis</p></li>
+<li><p>Fever and joint pain</p></li>
+<li><p>Severe cutaneous adverse reaction (SCAR)</p></li>
+</ul>
+</div><div class="column" style="width:50;">
+<p><strong>95% can tolerate penicillins</strong></p>
+<ul>
+<li>Delayed, benign rash (Type IV reaction) that often does not recur with rechallenge</li>
+<li>True IgE reactions wane over time, with 80% becoming tolerant after 10 years&nbsp;</li>
+<li>Many patients were never allergic, but had other symptoms they though represented a PCN allergy (concurrent viral infection, GI distress)</li>
+</ul>
+</div></div>
+</section>
+<section id="top-4-patient-penicillin-allergy-myths" class="slide level2" data-background-image="images/amoxicillin.png" data-background-opacity="0.2">
+<h2>Top 4 patient penicillin allergy myths</h2>
+<p><br></p>
+<ul>
+<li><p><strong>Once you have an penicillin allergy, you have it for life</strong></p>
+<ul>
+<li>Allergy wanes over time, 80% of patients with type I (IgE-mediated reactions) will not have an allergy after a 10 year period</li>
+</ul></li>
+<li><p><strong>Viral rashes mistaken for antibiotic therapy</strong></p>
+<ul>
+<li><p>E.g., child with a viral exanthematous rash treated with a course of penicillin</p></li>
+<li><p>Pediatric studies have reported &gt;90% of children who developed rashes on antibiotic therapy do not develop a rash when rechallenged with penicillin again</p></li>
+</ul></li>
+<li><p><strong>Adverse effects mistaken by the patient as drug allergy</strong></p>
+<ul>
+<li>E.g. diarrhea, stomach cramps</li>
+</ul></li>
+<li><p><strong>“I have a family history of penicillin allergy”</strong></p>
+<ul>
+<li>No genetic basis has been identified for penicillin allergies</li>
+</ul></li>
+</ul>
+</section>
+<section id="penicillin-allergy-history" class="slide level2">
+<h2>Penicillin allergy history</h2>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/history.png" class="lightbox" data-gallery="quarto-lightbox-gallery-19"><img data-src="images/history.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<p><br></p>
+<aside><div>
+<p><span class="citation" data-cites="shenoy.etal_2019">(<a href="#/references" role="doc-biblioref" onclick="">Shenoy et al., 2019</a>)</span></p>
+</div></aside></section>
+<section id="timing-and-clinical-presentation-of-reaction-is-key" class="slide level2">
+<h2>Timing and clinical presentation of reaction is key</h2>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/contraindications.png" class="lightbox" data-gallery="quarto-lightbox-gallery-20"><img data-src="images/contraindications.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="shenoy.etal_2019">(<a href="#/references" role="doc-biblioref" onclick="">Shenoy et al., 2019</a>)</span></p>
+</div></aside></section>
+<section id="how-to-assess-patient-risk" class="slide level2">
+<h2>How to assess patient risk</h2>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/risk.png" class="lightbox" data-gallery="quarto-lightbox-gallery-21"><img data-src="images/risk.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="shenoy.etal_2019">(<a href="#/references" role="doc-biblioref" onclick="">Shenoy et al., 2019</a>)</span></p>
+</div></aside></section>
+<section id="penfast-score" class="slide level2 smaller">
+<h2>PENFAST score</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/penfast.png" class="lightbox" data-gallery="quarto-lightbox-gallery-22"><img data-src="images/penfast.png" class="quarto-figure quarto-figure-center" width="800"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p>The PEN-FAST clinical decision rule for patients reporting a penicillin allergy uses 3 clinical criteria of time from penicillin allergy episode, phenotype, and treatment required. A total score is calculated using PEN-FAST score in the upper panel,and interpretation for risk strategy is provided in the lower panel. <sup>a</sup>Includes unknown. <sup>b</sup>Forms of severe delayed reactions include potential Stevens-Johnsonsyndrome, toxic epidermalnecrolysis, drug reaction witheosinophilia and systemicsymptoms, and acute generalizedexanthematous pustulosis. Patients with a severe delayed rash withmucosal involvement should beconsidered to have a severecutaneous adverse reaction. Acute interstitial nephritis, drug inducedliver injury, serum sickness andisolated drug fever were excluded phenotypes from the derivation and validation cohorts.</p>
+<p><span class="citation" data-cites="trubiano.etal_2020">(<a href="#/references" role="doc-biblioref" onclick="">Trubiano et al., 2020</a>)</span></p>
+</div></aside></section>
+<section id="penfast-performance" class="slide level2">
+<h2>PENFAST performance</h2>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/penfast_perf.png" class="lightbox" data-gallery="quarto-lightbox-gallery-23"><img data-src="images/penfast_perf.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="trubiano.etal_2020">(<a href="#/references" role="doc-biblioref" onclick="">Trubiano et al., 2020</a>)</span></p>
+</div></aside></section>
+<section id="direct-oral-amoxicillin-challenge" class="slide level2">
+<h2>Direct oral amoxicillin challenge</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/amox_challenge.png" class="lightbox" data-gallery="quarto-lightbox-gallery-24"><img data-src="images/amox_challenge.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="macy.etal_2023">(<a href="#/references" role="doc-biblioref" onclick="">Macy et al., 2023</a>)</span></p>
+</div></aside></section>
+<section id="palace-study" class="slide level2">
+<h2>Palace study</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/Palace.png" class="lightbox" data-gallery="quarto-lightbox-gallery-25"><img data-src="images/Palace.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="copaescu.etal_2023">(<a href="#/references" role="doc-biblioref" onclick="">Copaescu et al., 2023</a>)</span></p>
+</div></aside></section>
+<section id="two-step-oral-amoxicillin-challenge" class="slide level2">
+<h2>Two step oral amoxicillin challenge</h2>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/2step.png" class="lightbox" data-gallery="quarto-lightbox-gallery-26"><img data-src="images/2step.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="macy.etal_2023">(<a href="#/references" role="doc-biblioref" onclick="">Macy et al., 2023</a>)</span></p>
+</div></aside></section>
+<section id="anaphylaxis-medications" class="slide level2">
+<h2>Anaphylaxis medications</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/anaphylaxis.png" class="lightbox" data-gallery="quarto-lightbox-gallery-27"><img data-src="images/anaphylaxis.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="macy.etal_2023">(<a href="#/references" role="doc-biblioref" onclick="">Macy et al., 2023</a>)</span></p>
+</div></aside></section>
+<section id="how-to-assess-patient-risk-1" class="slide level2">
+<h2>How to assess patient risk</h2>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/risk.png" class="lightbox" data-gallery="quarto-lightbox-gallery-28"><img data-src="images/risk.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="shenoy.etal_2019">(<a href="#/references" role="doc-biblioref" onclick="">Shenoy et al., 2019</a>)</span></p>
+</div></aside></section>
+<section id="skin-testing" class="slide level2">
+<h2>Skin testing</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/skintest.png" class="lightbox" data-gallery="quarto-lightbox-gallery-29"><img data-src="images/skintest.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="macy.etal_2023">(<a href="#/references" role="doc-biblioref" onclick="">Macy et al., 2023</a>)</span></p>
+</div></aside></section>
+<section id="allergic-determinates" class="slide level2 smaller">
+<h2>Allergic determinates</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/penicillins.png" class="lightbox" data-gallery="quarto-lightbox-gallery-30"><img data-src="images/penicillins.png" class="quarto-figure quarto-figure-center" width="250"></a></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/minor.png" class="lightbox" data-gallery="quarto-lightbox-gallery-31"><img data-src="images/minor.png" class="quarto-figure quarto-figure-center" width="250"></a></p>
+</figure>
+</div>
+</div></div>
+
+<aside><div>
+<p><span class="citation" data-cites="castells.etal_2019">(<a href="#/references" role="doc-biblioref" onclick="">Castells et al., 2019</a>)</span></p>
+</div></aside></section>
+<section id="penicillin-skin-test-asssessment" class="slide level2">
+<h2>Penicillin skin test asssessment</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/skintest2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-32"><img data-src="images/skintest2.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="macy.etal_2023">(<a href="#/references" role="doc-biblioref" onclick="">Macy et al., 2023</a>)</span></p>
+</div></aside></section>
+<section id="penicillin-skin-test-assessment-medium-risk-history" class="slide level2">
+<h2>Penicillin skin test assessment-Medium risk history</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/medium%20risk.png" class="lightbox" data-gallery="quarto-lightbox-gallery-33"><img data-src="images/medium%20risk.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="macy.etal_2023">(<a href="#/references" role="doc-biblioref" onclick="">Macy et al., 2023</a>)</span></p>
+</div></aside></section>
+<section id="how-do-these-test-impact-medium-risk-patients" class="slide level2">
+<h2>How do these test impact “medium risk” patients?</h2>
+<p><br></p>
+<ul>
+<li>A negative skin test is associated with a 95% NPV for PCN allergy</li>
+<li>A negative skin test plus negative amoxicillin challenge approaches 100% NPV for PCN allergy</li>
+<li>If skin test is positive, amoxicillin challenge is not considered</li>
+<li>Patient should be referred to an allergy/immunologist or desensitisation considered</li>
+</ul>
+</section>
+<section id="desensitization" class="slide level2">
+<h2>Desensitization</h2>
+<p><br></p>
+<ul>
+<li>Progressive, graded degranulation of mast cells (histamine release) by administering graded doses of antibiotic</li>
+<li>Desensitization is contraindicated in patients with a history of a penicillin-induced exfoliative dermatitis, Stevens-Johnson syndrome, or toxic epidermal necrolysis</li>
+<li>Desensitization has no effect on the incidence of non-IgE mediated reactions such as serum sickness, hemolytic anemia, maculopapular rashes, drug fever, hepatitis, or interstitial nephritis</li>
+<li>If the patient does not receive a dose for a period of more than 24 hours, the risk for an immediate IgE-mediated reaction can be restored and repeat desensitization is required if the same drug is to be used again</li>
+</ul>
+</section>
+<section id="sample-desensitization-protocol" class="slide level2">
+<h2>Sample desensitization protocol</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/meropenem.png" class="lightbox" data-gallery="quarto-lightbox-gallery-34"><img data-src="images/meropenem.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p>Source: MD Anderson Cancer Center, Houston, Texas</p>
+</div></aside></section>
+<section id="other-desensitization-protocols" class="slide level2">
+<h2>Other desensitization protocols</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/Sanford.png" class="lightbox" data-gallery="quarto-lightbox-gallery-35"><img data-src="images/Sanford.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+</section>
+<section id="cross-reactivity-infectious-diseases-dogma" class="slide level2">
+<h2>Cross-reactivity: Infectious diseases dogma</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Common teaching: If a patient has a documented PCN allergy, the risk of cross reactions with cephalosporins is 10%</li>
+<li>THIS IS FALSE, the actual cross reactivity is more likely 2%-3%
+<ul>
+<li>A subset of patients with history of anaphylaxis may have cross-reactivity determined by the R1 sidechain of the molecule</li>
+<li>Cefazolin as a unique side chain and and very low risk for cross-reactivity</li>
+</ul></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<p><a href="images/sidechains.png" class="lightbox" data-gallery="quarto-lightbox-gallery-36"><img data-src="images/sidechains.png"></a></p>
+</div></div>
+<p><br></p>
+</section>
+<section id="risk-of-cross-reactivity-related-to-cephalosporin-sidechain" class="slide level2">
+<h2>Risk of cross-reactivity related to cephalosporin sidechain</h2>
+<p><br></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/cross-reactivity.png" class="lightbox" data-gallery="quarto-lightbox-gallery-37"><img data-src="images/cross-reactivity.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p>Source: Stanford University Hospital Antimicrobial Stewardship</p>
+</div></aside></section>
+<section id="what-is-the-cross-reactivity-with-carbapenems" class="slide level2">
+<h2>What is the cross-reactivity with carbapenems?</h2>
+<p><br></p>
+<ul>
+<li>Cross reactivity with penicillin allergy and carbapenems is less than 1%</li>
+<li>No cross reactivity between penicillins and monobactams (aztreonam)</li>
+<li>A graded challenge or test dose can be considered:
+<ul>
+<li>i.e.&nbsp;Infuse 5-10% of dose and observe patient, then progress to full dose if not reaction</li>
+<li>Skin testing (if available) could also rule out allergies</li>
+</ul></li>
+</ul>
+</section>
+<section id="special-populations-that-should-be-considered-for-testing" class="slide level2 smaller">
+<h2>Special populations that should be <br> considered for testing</h2>
+<p><br></p>
+<ul>
+<li><strong>Peri-procedure before elective surgery</strong>
+<ul>
+<li>Importance of antibiotic timing/tissue levels at time of incision-less optimal with vancomycin that requires longer infusion</li>
+</ul></li>
+<li><strong>Pregnancy</strong>
+<ul>
+<li>PCN allergy associated with increased risk of cesarean delivery, post-cesarean wound complications, and longer length of stay</li>
+<li>Consider third trimester referral for testing in patients with planned cesarean delivery, group B streptococcus colonization</li>
+</ul></li>
+<li><strong>Long term care facilities</strong>
+<ul>
+<li>Non-beta-lactam based therapies have higher risk for drug interactions</li>
+<li>Higher risk for adverse effects</li>
+</ul></li>
+<li><strong>Hematology-oncology</strong>
+<ul>
+<li>Consider testing before chemotherapy or transplant (onset of of immunosuppression)</li>
+</ul></li>
+<li><strong>STD clinics</strong></li>
+<li><strong>ICU patients?</strong></li>
+</ul>
+</section>
+<section id="non-penicillin-allergies" class="slide level2" data-background-image="images/TMPSMX.png" data-background-opacity="0.2">
+<h2><br> <br> <br> <br> Non-penicillin allergies?</h2>
+</section>
+<section id="similar-principles--patient-history-is-key" class="slide level2">
+<h2>Similar principles- patient history is key</h2>
+<p><br></p>
+<ul>
+<li>Which drugs was the patient taking?</li>
+<li>Dates of intake</li>
+<li>Exact sequence of events</li>
+<li>Underlying disease/Concomitant infections</li>
+<li>Other drug administered at the same time/concomitant infections</li>
+<li>Clinical morphology (at several time points)of rash</li>
+<li>Histology of eosinophilia?</li>
+</ul>
+</section>
+<section id="intradermal-testing-non-beta-lactams" class="slide level2">
+<h2>Intradermal testing-Non beta-lactams</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/intradermal.png" class="lightbox" data-gallery="quarto-lightbox-gallery-38"><img data-src="images/intradermal.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Prick and intradermal tests less well standardized S</li>
+<li>Some antibiotics are irritating even at low concentrations, making testing difficult</li>
+<li>Special cellular activation tests may be available in some centers for some drugs</li>
+</ul>
+</div></div>
+
+<aside><div>
+<p>Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel</p>
+</div></aside></section>
+<section id="approach-to-delayed-type-hypersensitivity-testing" class="slide level2">
+<h2>Approach to delayed-type hypersensitivity testing</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><a href="images/Patch.png" class="lightbox" data-gallery="quarto-lightbox-gallery-39"><img data-src="images/Patch.png"></a></p>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Intradermal or patch testing with reading 24-72 hours
+<ul>
+<li>Low sensitivity, high specificity</li>
+</ul></li>
+<li>Lymphocyte transformation testing
+<ul>
+<li>Available in specialized laboratories</li>
+<li>Haptenization to become an antigen in vivo (hard to imitate in lab)</li>
+</ul></li>
+</ul>
+</div></div>
+
+<aside><div>
+<p>Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel</p>
+</div></aside></section>
+<section id="sulfonamide-hypersensitivity" class="slide level2">
+<h2>Sulfonamide hypersensitivity</h2>
+<p><br></p>
+<ul>
+<li>Incidence 8%</li>
+<li>Primarily cutaneous and GI tract</li>
+<li>Only 3% are considered true hypersensitivity reactions.
+<ul>
+<li>Most common presentations are limited exanthems and fixed drug eruptions</li>
+<li>However…sulfonamides are disproportionately associated with infrequent severe side effects (i.e.&nbsp;TEN, Stevens-Johnson Syndrome)</li>
+</ul></li>
+<li>Mechanisms IgE-mediated are known to occur, but other poorly understood direct T-cell mediated mechanisms are more likely to be responsible</li>
+<li>Higher incidence of reactions in patients with HIV/AIDS, tuberculosis</li>
+</ul>
+</section>
+<section id="mechanism-of-sulfonamide-hypersensitivity" class="slide level2 smaller">
+<h2>Mechanism of sulfonamide hypersensitivity</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/sulfallergy.png" class="lightbox" data-gallery="quarto-lightbox-gallery-40"><img data-src="images/sulfallergy.png" class="quarto-figure quarto-figure-center" width="800"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="slatore.tilles_2004">(<a href="#/references" role="doc-biblioref" onclick="">Slatore and Tilles, 2004</a>)</span></p>
+</div></aside></section>
+<section id="penfast-score-applied-to-sulfa-allergies" class="slide level2">
+<h2>PENFAST score applied to sulfa allergies</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><a href="images/sulfast.png" class="lightbox" data-gallery="quarto-lightbox-gallery-41"><img data-src="images/sulfast.png" class="quarto-figure quarto-figure-center"></a></p>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="waldron.etal_2023">(<a href="#/references" role="doc-biblioref" onclick="">Waldron et al., 2023</a>)</span></p>
+</div></aside></section>
+<section id="non-sensitizing-allergic-reactions" class="slide level2">
+<h2>Non-sensitizing allergic reactions</h2>
+<p><br></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><a href="images/receptors.png" class="lightbox" data-gallery="quarto-lightbox-gallery-42"><img data-src="images/receptors.png"></a></p>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Mas-related G protein coupled receptor (MRGPRX2)</li>
+<li>Neuromuscular blocking agents</li>
+<li>Opioids</li>
+<li>Radiocontrast media</li>
+<li>Vancomycin, glycopeptides, fluoroquinolones</li>
+<li>Complement-activation-related pseudoallergy (CARPA)</li>
+<li>Liposomes, drug carriers</li>
+</ul>
+</div></div>
+
+<aside><div>
+<p><span class="citation" data-cites="ebo.etal_2019">(<a href="#/references" role="doc-biblioref" onclick="">Ebo et al., 2019</a>)</span></p>
+</div></aside></section>
+<section id="vancomycin-infusion-reaction-red-man-syndrome" class="slide level2">
+<h2>Vancomycin infusion reaction <br> “red man syndrome”</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><a href="images/redman.png" class="lightbox" data-gallery="quarto-lightbox-gallery-43"><img data-src="images/redman.png"></a></p>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Vancomycin can also cause:
+<ul>
+<li>Hypotension, anaphylaxis</li>
+<li>Maculopapular exanthems</li>
+<li>Vasculitis E</li>
+<li>Eosinophilia Exfoliative dermatitis/DRESS/Stephens-Johnson</li>
+</ul></li>
+</ul>
+</div></div>
+<p><br></p>
+<ul>
+<li>Penicillin allergies are the most common “contraindication” to antibiotic therapy, but most histories do not represent true allergies</li>
+<li>A systematic approach can be used to evaluate and potentially “de-label” patients with penicillin allergy</li>
+<li>Cross-reactivity rates are low with current cephalosporins and carbapenems, but can alternatively be addressed through antibiotic challenges and skin testing</li>
+<li>Desensitization can be attempted in specific cases when a particular antibiotic is needed for IgE-mediated reactions</li>
+<li>Some antibiotics cause non-immune-related hypersensitivity reactions that can be managed by slowing infusions and administering antihistamines</li>
+</ul>
+
+<aside><div>
+<p><span class="citation" data-cites="alvarez-arango.etal_2021">(<a href="#/references" role="doc-biblioref" onclick="">Alvarez-Arango et al., 2021</a>)</span></p>
+</div></aside></section>
+<section id="references" class="slide level2 smaller scrollable">
+<h2>References</h2>
+<p><br></p>
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
 </div>
 </div>
-</section>
+<div id="refs" class="references csl-bib-body" data-entry-spacing="0" role="list">
+<div id="ref-alvarez-arango.etal_2021" class="csl-entry" role="listitem">
+Alvarez-Arango S, Ogunwole SM, Sequist TD, Burk CM, Blumenthal KG. Vancomycin infusion reaction — moving beyond <span>“red man syndrome.”</span> New England Journal of Medicine 2021;384:1283–6. <a href="https://doi.org/10.1056/NEJMp2031891">https://doi.org/10.1056/NEJMp2031891</a>.
+</div>
+<div id="ref-castells.etal_2019" class="csl-entry" role="listitem">
+Castells M, Khan DA, Phillips EJ. Penicillin allergy. New England Journal of Medicine 2019;381:2338–51. <a href="https://doi.org/10.1056/NEJMra1807761">https://doi.org/10.1056/NEJMra1807761</a>.
+</div>
+<div id="ref-copaescu.etal_2023" class="csl-entry" role="listitem">
+Copaescu AM, Vogrin S, James F, Chua KYL, Rose MT, De Luca J, et al. Efficacy of a clinical decision rule to enable direct oral challenge in patients with low-risk penicillin allergy: The PALACE randomized clinical trial. JAMA Internal Medicine 2023;183:944–52. <a href="https://doi.org/10.1001/jamainternmed.2023.2986">https://doi.org/10.1001/jamainternmed.2023.2986</a>.
+</div>
+<div id="ref-ebo.etal_2019" class="csl-entry" role="listitem">
+Ebo DG, Clarke RC, Mertes P-M, Platt PR, Sabato V, Sadleir PHM. Molecular mechanisms and pathophysiology of perioperative hypersensitivity and anaphylaxis: A narrative review. British Journal of Anaesthesia 2019;123:e38–49. <a href="https://doi.org/10.1016/j.bja.2019.01.031">https://doi.org/10.1016/j.bja.2019.01.031</a>.
+</div>
+<div id="ref-hausmann.etal_2010" class="csl-entry" role="listitem">
+Hausmann O, Schnyder B, Pichler WJ. Drug hypersensitivity reactions involving skin. In: Uetrecht J, editor. Adverse drug reactions, Springer; 2010, p. 29–55. <a href="https://doi.org/10.1007/978-3-642-00663-0_2">https://doi.org/10.1007/978-3-642-00663-0_2</a>.
+</div>
+<div id="ref-macy.etal_2023" class="csl-entry" role="listitem">
+Macy E, Trautmann A, Chiriac AM, Demoly P, Phillips EJ. Advances in the understanding of drug hypersensitivity: 2012 through 2022. The Journal of Allergy and Clinical Immunology: In Practice 2023;11:80–91. <a href="https://doi.org/10.1016/j.jaip.2022.10.025">https://doi.org/10.1016/j.jaip.2022.10.025</a>.
+</div>
+<div id="ref-shenoy.etal_2019" class="csl-entry" role="listitem">
+Shenoy ES, Macy E, Rowe T, Blumenthal KG. Evaluation and management of penicillin allergy: A review. JAMA: The Journal of the American Medical Association 2019;321:188–99. <a href="https://doi.org/10.1001/jama.2018.19283">https://doi.org/10.1001/jama.2018.19283</a>.
+</div>
+<div id="ref-slatore.tilles_2004" class="csl-entry" role="listitem">
+Slatore CG, Tilles SA. Sulfonamide hypersensitivity. Immunology and Allergy Clinics of North America 2004;24:477–90, vii. <a href="https://doi.org/10.1016/j.iac.2004.03.011">https://doi.org/10.1016/j.iac.2004.03.011</a>.
+</div>
+<div id="ref-trubiano.etal_2020" class="csl-entry" role="listitem">
+Trubiano JA, Vogrin S, Chua KYL, Bourke J, Yun J, Douglas A, et al. Development and validation of a penicillin allergy clinical decision rule. JAMA Internal Medicine 2020;180:745–52. <a href="https://doi.org/10.1001/jamainternmed.2020.0403">https://doi.org/10.1001/jamainternmed.2020.0403</a>.
+</div>
+<div id="ref-waldron.etal_2023" class="csl-entry" role="listitem">
+Waldron JL, Rose M, Vogrin S, Krantz MS, Bolotte R, Phillips EJ, et al. Development and validation of a sulfa antibiotic allergy clinical decision rule. JAMA Network Open 2023;6:e2316776. <a href="https://doi.org/10.1001/jamanetworkopen.2023.16776">https://doi.org/10.1001/jamanetworkopen.2023.16776</a>.
+</div>
+<div id="ref-zhang.liu_2015" class="csl-entry" role="listitem">
+Zhang Z, Liu X. Acute generalized exanthematous pustulosis. New England Journal of Medicine 2015;372:161–1. <a href="https://doi.org/10.1056/NEJMicm1401196">https://doi.org/10.1056/NEJMicm1401196</a>.
+</div>
+</div>
+</section></section>
     </div>
   </div>
 
@@ -750,7 +1512,7 @@
       }
     });
     </script>
-    <script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"openEffect":"zoom","descPosition":"bottom","closeEffect":"zoom"});
+    <script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","loop":false,"openEffect":"zoom","closeEffect":"zoom"});
     (function() {
       let previousOnload = window.onload;
       window.onload = () => {
