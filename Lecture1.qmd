@@ -587,7 +587,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/Patch.png)
+![](images/Patch.png){width="800"}
 :::
 
 ::: {.column width="50%"}
