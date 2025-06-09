@@ -33,6 +33,8 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 ## Objectives
 
+<br>
+
 -   Describe the different types of hypersensitivity reactions based on clinical presentation and immunological mechanisms 
 
 -   Recognise a patient history that will differentiate between immediate and delayed-type hypersensitivity reactions 
@@ -117,7 +119,7 @@ Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 <br>
 
-![](images/fixed.png)
+![](images/fixed.png){fig-align="center" width="600"}
 
 ::: aside
 Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
@@ -127,7 +129,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 <br>
 
-![](images/ten2.png)
+![](images/ten2.png){fig-align="center" width="800"}
 
 ::: aside
 Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
@@ -165,7 +167,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 :::
 
 ::: {.column width="60%"}
-![](images/dress.png)
+![](images/dress.png){fig-align="center" width="800"}
 :::
 :::::
 
@@ -189,7 +191,7 @@ Image: UptoDate
 :::
 
 ::: {.column width="60%"}
-![](images/dress.png)
+![](images/dress.png){fig-align="center" width="800"}
 :::
 :::::
 
@@ -230,8 +232,6 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 :::
 
 ## Modified Gell and Coombs Classification
-
-<br>
 
 ![](images/coombs.png){fig-align="center" width="800"}
 
@@ -343,11 +343,9 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 <br>
 
-## Timing and clinical presentation of reaction is key
+## Timing and clinical presentation of reaction
 
-<br>
-
-![](images/contraindications.png){fig-align="center"}
+![](images/contraindications.png){fig-align="center" width="800"}
 
 ::: aside
 [@shenoy.etal_2019]
@@ -365,7 +363,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 ## PENFAST score {.smaller}
 
-![](images/penfast.png){fig-align="center" width="800"}
+![](images/penfast.png){fig-align="center" width="300"}
 
 ::: aside
 The PEN-FAST clinical decision rule for patients reporting a penicillin allergy uses 3 clinical criteria of time from penicillin allergy episode, phenotype, and treatment required. A total score is calculated using PEN-FAST score in the upper panel,and interpretation for risk strategy is provided in the lower panel. ^a^Includes unknown. ^b^Forms of severe delayed reactions include potential Stevens-Johnson syndrome, toxic epidermalnecrolysis, drug reaction with eosinophilia and systemic symptoms, and acute generalizedexanthematous pustulosis. Patients with a severe delayed rash with mucosal involvement should be considered to have a severe cutaneous adverse reaction. Acute interstitial nephritis, drug induced liver injury, serum sickness and isolated drug fever were excluded phenotypes from the derivation and validation cohorts.
@@ -467,7 +465,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 [@macy.etal_2023]
 :::
 
-## How do these test impact "medium risk" patients?
+##  Impact "medium risk" patients?
 
 <br>
 
@@ -480,14 +478,14 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 <br>
 
--   Progressive, graded degranulation of mast cells (histamine release) by administering graded doses of antibiotic
+-   Progressive, graded de-granulation of mast cells (histamine release) by administering graded doses of antibiotic
 -   Desensitization is contraindicated in patients with a history of a penicillin-induced exfoliative dermatitis, Stevens-Johnson syndrome, or toxic epidermal necrolysis
 -   Desensitization has no effect on the incidence of non-IgE mediated reactions such as serum sickness, hemolytic anemia, maculopapular rashes, drug fever, hepatitis, or interstitial nephritis
 -   If the patient does not receive a dose for a period of more than 24 hours, the risk for an immediate IgE-mediated reaction can be restored and repeat desensitization is required if the same drug is to be used again
 
 ## Sample desensitization protocol
 
-![](images/meropenem.png){fig-align="center" width="800"}
+![](images/meropenem.png){fig-align="center" width="600"}
 
 ::: aside
 Source: MD Anderson Cancer Center, Houston, Texas
@@ -518,7 +516,7 @@ Source: MD Anderson Cancer Center, Houston, Texas
 
 <br>
 
-![](images/cross-reactivity.png){fig-align="center" width="800"}
+![](images/cross-reactivity.png){fig-align="center" width="600"}
 
 ::: aside
 Source: Stanford University Hospital Antimicrobial Stewardship
