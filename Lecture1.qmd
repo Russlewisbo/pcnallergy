@@ -223,7 +223,7 @@ Image: UptoDate
 
 <br> <br>
 
-![](images/SJ.png)
+![](images/SJ.png){width="800"}
 
 ::: aside
 Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
@@ -233,7 +233,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 <br>
 
-![](images/coombs.png){width="800"}
+![](images/coombs.png){fig-align="center" width="800"}
 
 ::: aside
 [@hausmann.etal_2010]
@@ -241,13 +241,13 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 ## Immunological mechanisms <br> {.smaller}
 
-![](images/nejm2.png){fig-align="center" width="400"}
+![](images/nejm2.png){fig-align="center" width="800"}
 
 ::: aside
 [@castells.etal_2019]
 :::
 
-## <br> <br> <br> <br> Penicillin allergy {background-image="images/amoxicillin.png" background-opacity="0.2"}
+## <br> <br> <br> <br> Penicillin allergy {background-image="images/amoxicillin.png" background-opacity="0.1"}
 
 ## Penicillin allergy epidemiology
 
@@ -309,7 +309,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 :::
 :::::
 
-## Top 4 patient penicillin allergy myths {background-image="images/amoxicillin.png" background-opacity="0.2"}
+## Top 4 patient penicillin allergy myths {background-image="images/amoxicillin.png" background-opacity="0.1"}
 
 <br>
 
@@ -411,7 +411,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ## Anaphylaxis medications
 
-![](images/anaphylaxis.png){fig-align="center"}
+![](images/anaphylaxis.png){fig-align="center" width="600"}
 
 ::: aside
 [@macy.etal_2023]
@@ -429,7 +429,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ## Skin testing
 
-![](images/skintest.png){fig-align="center"}
+![](images/skintest.png){fig-align="center" width="800"}
 
 ::: aside
 [@macy.etal_2023]
@@ -453,7 +453,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ## Penicillin skin test asssessment
 
-![](images/skintest2.png){fig-align="center"}
+![](images/skintest2.png){fig-align="center" width="800"}
 
 ::: aside
 [@macy.etal_2023]
@@ -461,7 +461,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ## Penicillin skin test assessment-Medium risk history
 
-![](images/medium%20risk.png){fig-align="center"}
+![](images/medium%20risk.png){fig-align="center" width="800"}
 
 ::: aside
 [@macy.etal_2023]
@@ -487,7 +487,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ## Sample desensitization protocol
 
-![](images/meropenem.png){fig-align="center"}
+![](images/meropenem.png){fig-align="center" width="800"}
 
 ::: aside
 Source: MD Anderson Cancer Center, Houston, Texas
@@ -495,7 +495,7 @@ Source: MD Anderson Cancer Center, Houston, Texas
 
 ## Other desensitization protocols
 
-![](images/Sanford.png){fig-align="center"}
+![](images/Sanford.png){fig-align="center" width="800"}
 
 ## Cross-reactivity: Infectious diseases dogma
 
@@ -518,7 +518,7 @@ Source: MD Anderson Cancer Center, Houston, Texas
 
 <br>
 
-![](images/cross-reactivity.png){fig-align="center"}
+![](images/cross-reactivity.png){fig-align="center" width="800"}
 
 ::: aside
 Source: Stanford University Hospital Antimicrobial Stewardship
@@ -569,7 +569,7 @@ Source: Stanford University Hospital Antimicrobial Stewardship
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/intradermal.png){fig-align="center"}
+![](images/intradermal.png){fig-align="center" width="800"}
 :::
 
 ::: {.column width="50%"}
