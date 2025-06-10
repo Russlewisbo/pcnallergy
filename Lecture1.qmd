@@ -85,11 +85,11 @@ Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 ::::: columns
 ::: {.column width="50%"}
-![urticaria](images/urticaria.png)
+![urticaria](images/urticaria.png){fig-align="left" width="300"}
 :::
 
 ::: {.column width="50%"}
-![angioedema](images/angioendema.png)
+![angioedema](images/angioendema.png){width="600"}
 :::
 :::::
 
@@ -115,21 +115,19 @@ Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 [@zhang.liu_2015]
 :::
 
-## Fixed drug eruption
+## Fixed drug eruption {.smaller}
 
-<br>
-
-![](images/fixed.png){fig-align="center" width="600"}
+![](images/fixed.png){fig-align="center" width="500"}
 
 ::: aside
 Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 :::
 
-## **Erythema multiforme, Toxic epidermal necrolysis (TEN)**
+## **Erythema multiforme,** <br>Toxic epidermal necrolysis (TEN) {.smaller}
 
 <br>
 
-![](images/ten2.png){fig-align="center" width="800"}
+![](images/ten2.png){fig-align="center" width="500"}
 
 ::: aside
 Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
@@ -147,13 +145,9 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 -   **Hematological abnormalities:**
 
-    -   **Eosinophilia \> 700 micolL (85-95%)**
+    -   **Eosinophilia \> 700 mcL (85-95%)**
 
-    -   **Leukocytosis (95%)**
-
-    -   **Neutrophilia (78%)**
-
-    -   **Monocytosis (69%)**
+    -   **Leukocytosis (95%), neutrophilia (78%), monocytosis (69%)**
 
     -   **Atypical lymphocytosis (35-67%)**
 
@@ -207,7 +201,7 @@ Image: UptoDate
 
 -   Aromatic antiepileptic agents (carbamazepine, phenytoin, lamotrigine, …)
 
--   Sulfonamides
+-   Sulphonamides
 
 -   Vancomycin
 
@@ -241,7 +235,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 ## Immunological mechanisms <br> {.smaller}
 
-![](images/nejm2.png){fig-align="center" width="800"}
+![](images/nejm2.png){fig-align="center" width="500"}
 
 ::: aside
 [@castells.etal_2019]
@@ -253,6 +247,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 <br>
 
+::: incremental
 -   10-20% of patients will report a history of an allergy to PCN therapy 
 
 -   However, only 0.5%-2% of all PCN administrations actually result in hypersensitivity reactions, most often rash 
@@ -266,6 +261,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
     -   1 death after anaphylaxis with oral amoxicillin (35 years and 100 million treatment courses)
 
 -   Most reports of penicillin allergy describe unknown or cutaneous reaction
+:::
 
 <br>
 
@@ -313,6 +309,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 <br>
 
+::: incremental
 -   **Once you have an penicillin allergy, you have it for life**
 
     -   Allergy wanes over time, 80% of patients with type I (IgE-mediated reactions) will not have an allergy after a 10 year period
@@ -330,6 +327,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 -   **“I have a family history of penicillin allergy”**
 
     -   No genetic basis has been identified for penicillin allergies
+:::
 
 ## Penicillin allergy history
 
@@ -345,7 +343,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 ## Timing and clinical presentation of reaction
 
-![](images/contraindications.png){fig-align="center" width="800"}
+![](images/contraindications.png){fig-align="center" width="600"}
 
 ::: aside
 [@shenoy.etal_2019]
@@ -363,7 +361,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 
 ## PENFAST score {.smaller}
 
-![](images/penfast.png){fig-align="center" width="300"}
+![](images/penfast.png){fig-align="center" width="500"}
 
 ::: aside
 The PEN-FAST clinical decision rule for patients reporting a penicillin allergy uses 3 clinical criteria of time from penicillin allergy episode, phenotype, and treatment required. A total score is calculated using PEN-FAST score in the upper panel,and interpretation for risk strategy is provided in the lower panel. ^a^Includes unknown. ^b^Forms of severe delayed reactions include potential Stevens-Johnson syndrome, toxic epidermalnecrolysis, drug reaction with eosinophilia and systemic symptoms, and acute generalizedexanthematous pustulosis. Patients with a severe delayed rash with mucosal involvement should be considered to have a severe cutaneous adverse reaction. Acute interstitial nephritis, drug induced liver injury, serum sickness and isolated drug fever were excluded phenotypes from the derivation and validation cohorts.
@@ -437,11 +435,11 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/penicillins.png){fig-align="center" width="250"}
+![](images/penicillins.png){fig-align="center" width="150"}
 :::
 
 ::: {.column width="50%"}
-![](images/minor.png){fig-align="center" width="250"}
+![](images/minor.png){fig-align="center" width="150"}
 :::
 :::::
 
@@ -465,27 +463,31 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 [@macy.etal_2023]
 :::
 
-##  Impact "medium risk" patients?
+## Impact "medium risk" patients?
 
+::: incremental
 <br>
 
 -   A negative skin test is associated with a 95% NPV for PCN allergy
 -   A negative skin test plus negative amoxicillin challenge approaches 100% NPV for PCN allergy
 -   If skin test is positive, amoxicillin challenge is not considered
 -   Patient should be referred to an allergy/immunologist or desensitisation considered
+:::
 
 ## Desensitization
 
 <br>
 
+::: incremental
 -   Progressive, graded de-granulation of mast cells (histamine release) by administering graded doses of antibiotic
 -   Desensitization is contraindicated in patients with a history of a penicillin-induced exfoliative dermatitis, Stevens-Johnson syndrome, or toxic epidermal necrolysis
 -   Desensitization has no effect on the incidence of non-IgE mediated reactions such as serum sickness, hemolytic anemia, maculopapular rashes, drug fever, hepatitis, or interstitial nephritis
 -   If the patient does not receive a dose for a period of more than 24 hours, the risk for an immediate IgE-mediated reaction can be restored and repeat desensitization is required if the same drug is to be used again
+:::
 
 ## Sample desensitization protocol
 
-![](images/meropenem.png){fig-align="center" width="600"}
+![](images/meropenem.png){fig-align="center" width="400"}
 
 ::: aside
 Source: MD Anderson Cancer Center, Houston, Texas
