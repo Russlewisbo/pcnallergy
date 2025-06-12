@@ -671,6 +671,12 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 :::
 :::::
 
+::: aside
+[@alvarez-arango.etal_2021]
+:::
+
+## Take home messages
+
 <br>
 
 -   Penicillin allergies are the most common “contraindication” to antibiotic therapy, but most histories do not represent true allergies
@@ -679,9 +685,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 -   Desensitization can be attempted in specific cases when a particular antibiotic is needed for IgE-mediated reactions
 -   Some antibiotics cause non-immune-related hypersensitivity reactions that can be managed by slowing infusions and administering antihistamines
 
-::: aside
-[@alvarez-arango.etal_2021]
-:::
+
 
 ## References
 
