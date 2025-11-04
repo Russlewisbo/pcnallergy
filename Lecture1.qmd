@@ -21,7 +21,7 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Lecture 5: Penicillin and antibiotic allergies {background-image="images/nejm_allergy.png" background-opacity="0.2"}
+## Penicillin and antibiotic allergies {background-image="images/nejm_allergy.png" background-opacity="0.2"}
 
 <br> <br> <br> <br> <br>
 
