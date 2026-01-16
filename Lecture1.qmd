@@ -1,6 +1,7 @@
 ---
 format:
   revealjs:
+    self-contained: true
     spotlight: true
     touch: true
     controls: true
@@ -12,7 +13,7 @@ format:
     slide-number: true
     incremental: false
     multiplex: false
-    chalkboard: true
+    chalkboard: false
     theme: [default, custom.scss]
     filters:
      - highlight-text
@@ -97,24 +98,6 @@ Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 :::
 
-## **Acute generalised exanthematous pustulosis (AGEP)**
-
-<br> <br>
-
-::::: columns
-::: {.column width="50%"}
-![](images/ten.png)
-:::
-
-::: {.column width="50%"}
-![](images/agep.png)
-:::
-:::::
-
-::: aside
-[@zhang.liu_2015]
-:::
-
 ## Fixed drug eruption {.smaller}
 
 ![](images/fixed.png){fig-align="center" width="500"}
@@ -122,6 +105,8 @@ Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 ::: aside
 Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 :::
+
+## SCAR: Severe Cutaneous Adverse Reactions
 
 ## **Erythema multiforme,** <br>Toxic epidermal necrolysis (TEN) {.smaller}
 
@@ -182,6 +167,10 @@ Image: UptoDate
     -   Reactivation of viruses from the Herpesviridae family (eg, HHV-6, HHV-7, Epstein-Barr virus \[EBV\], cytomegalovirus \[CMV\]) occurs in up to 75 percent of patients-cause or consequence? 
 
     -   Some patient human leukocyte antigens are associated with higher risk
+
+    -   RegiSCAR scoring system is a commonly used tool for diagnosis
+
+    -   Symptoms may worsen or recur despite drug discontinuation or persisnt, requing immunosuppressive treatment
 :::
 
 ::: {.column width="60%"}
@@ -215,14 +204,46 @@ Image: UptoDate
 
 **β-lactams are lower risk**
 
-## Stevens-Johnson Syndrome
+## Stevens-Johnson Syndrome {.smaller}
 
-<br> <br>
+::::: columns
+::: {.column width="50%"}
+![](images/SJ.png){width="721"}
+:::
 
-![](images/SJ.png){width="800"}
+::: {.column width="50%"}
+-   Drug-sensitized cytotoxic CD8+ T cells mediate keratinocyte necrosis
+
+-   TEN has a mortality rate of approximately 30% that can exceed 50% in elderly or immunosuppressed patients. T
+
+-   The severity-of-illness score for TEN (SCORTEN) algorithm facilitates clinical diagnosis and prognostication.
+
+-   SJS is associated with the maintenance of long-lasting tissue-resident memory T-cell responses in the skin that persist after SCAR, necessitating accurate identification and lifelong avoidance of the culprit antibiotic
+:::
+:::::
 
 ::: aside
 Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
+:::
+
+## **Acute generalized exanthematous pustulosis (AGEP)** {.smaller}
+
+-   AGEP is a drug eruption characterized by an extensive sterile, nonfollicular pustular reaction superimposed on erythematous plaques, with a prominent leukocytosis and neutrophilic dominance
+
+-   Most cases of antimicrobial-induced AGEP, such as that caused by β-lactams and quinolones, typically cause symptoms within a day of exposure, whereas other drugs take 7 to 14 days of exposure before symptoms.
+
+::::: columns
+::: {.column width="50%"}
+![](images/ten.png)
+:::
+
+::: {.column width="50%"}
+![](images/agep.png)
+:::
+:::::
+
+::: aside
+[@zhang.liu_2015]
 :::
 
 ## Modified Gell and Coombs Classification
@@ -387,6 +408,15 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 [@macy.etal_2023]
 :::
 
+## Rationale behind oral amoxicillin challenge
+
+<br> <br>
+
+-   Only ∼2% of penicillin “allergic” individuals develop an acute hypersensitivity reaction with an oral challenge of a therapeutic dose and 1 hour of observation. 
+    -   An additional approximately 2% will have a delayed onset, typically benign, rash within the next 5 days. 
+    -   The requirement for viral costimulation of T cells likely explains the low reproducibility of drug exanthems. 
+-   Hence, a direct oral challenge with a single therapeutic dose of amoxicillin is an important step to avoid unnecessary penicillin allergy labels, and indicated in low-risk phenotypes and nonanaphylactic symptoms, such as those with benign delayed-onset rashes without systemic symptoms or SCAR features
+
 ## Palace study
 
 ![](images/Palace.png){fig-align="center"}
@@ -447,7 +477,23 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 [@castells.etal_2019]
 :::
 
-## Penicillin skin test asssessment
+## Penicillin skin test assessment
+
+-   High negative predictive value (NPV) \~95% for IgE-mediated reactions
+
+-   Poor positive-predictive value- Possible false positive diagnosis if used in patient with low pre-test probability
+
+-   Amoxicillin is commonly used to challenge after negative penicillin skin tests as it addresses the core β-lactam of penicillin and also side-chain–specific reactions, which may not be detected through skin testing with penicillin itself (NPV 100% if both are negative)
+
+-   Traditional penicillin skin testing or amoxicillin challenge may be negative in patients with historical reactivity to piperacillin-tazobactam. Skin testing to piperacillin-tazobactam may help to establish this selective sensitization, and these patients are often able to tolerate other penicillins
+
+-   Penicillin skin testing has no value in delayed reactions, including SJS/TEN, DRESS, and other noncutaneous organ-based reactions
+
+::: aside
+[@macy.etal_2023]
+:::
+
+## Penicillin skin test assessment
 
 ![](images/skintest2.png){fig-align="center" width="800"}
 
@@ -455,7 +501,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 [@macy.etal_2023]
 :::
 
-## Penicillin skin test assessment-Medium risk history
+## Penicillin skin test assessment-Medium risk history {.smaller}
 
 ![](images/medium%20risk.png){fig-align="center" width="800"}
 
@@ -471,7 +517,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 -   A negative skin test is associated with a 95% NPV for PCN allergy
 -   A negative skin test plus negative amoxicillin challenge approaches 100% NPV for PCN allergy
 -   If skin test is positive, amoxicillin challenge is not considered
--   Patient should be referred to an allergy/immunologist or desensitisation considered
+-   Patient should be referred to an allergy/immunologist or desensitization considered
 :::
 
 ## Desensitization
@@ -479,7 +525,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 <br>
 
 ::: incremental
--   Progressive, graded de-granulation of mast cells (histamine release) by administering graded doses of antibiotic
+-   Progressive, graded de-granulation of mast cells (histamine release) and internalization of high-affinity IgE receptors by administering graded doses of antibiotic
 -   Desensitization is contraindicated in patients with a history of a penicillin-induced exfoliative dermatitis, Stevens-Johnson syndrome, or toxic epidermal necrolysis
 -   Desensitization has no effect on the incidence of non-IgE mediated reactions such as serum sickness, hemolytic anemia, maculopapular rashes, drug fever, hepatitis, or interstitial nephritis
 -   If the patient does not receive a dose for a period of more than 24 hours, the risk for an immediate IgE-mediated reaction can be restored and repeat desensitization is required if the same drug is to be used again
@@ -573,9 +619,11 @@ Source: Stanford University Hospital Antimicrobial Stewardship
 :::
 
 ::: {.column width="50%"}
--   Prick and intradermal tests less well standardized S
+-   Skin tests for most antimicrobial agents lack high negative predictive values, and skin test positivity is often a function of the time elapsed since the index reaction
+-   Prick and intradermal tests less well standardized- non-irritating formulations required
 -   Some antibiotics are irritating even at low concentrations, making testing difficult
 -   Special cellular activation tests may be available in some centers for some drugs
+    -   e.g., The BAT (flow cytometry) detects the upregulation of activation markers CD63 and CD203c on the surface of basophils after incubation with the implicated drug
 :::
 :::::
 
@@ -684,8 +732,6 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 -   Cross-reactivity rates are low with current cephalosporins and carbapenems, but can alternatively be addressed through antibiotic challenges and skin testing
 -   Desensitization can be attempted in specific cases when a particular antibiotic is needed for IgE-mediated reactions
 -   Some antibiotics cause non-immune-related hypersensitivity reactions that can be managed by slowing infusions and administering antihistamines
-
-
 
 ## References
 
