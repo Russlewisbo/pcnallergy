@@ -412,9 +412,9 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 <br> <br>
 
--   Only ∼2% of penicillin “allergic” individuals develop an acute hypersensitivity reaction with an oral challenge of a therapeutic dose and 1 hour of observation. 
-    -   An additional approximately 2% will have a delayed onset, typically benign, rash within the next 5 days. 
-    -   The requirement for viral costimulation of T cells likely explains the low reproducibility of drug exanthems. 
+-   Only ∼2% of penicillin “allergic” individuals develop an acute hypersensitivity reaction with an oral challenge of a therapeutic dose and 1 hour of observation.
+    -   An additional approximately 2% will have a delayed onset, typically benign, rash within the next 5 days.
+    -   The requirement for viral costimulation of T cells likely explains the low reproducibility of drug exanthems.
 -   Hence, a direct oral challenge with a single therapeutic dose of amoxicillin is an important step to avoid unnecessary penicillin allergy labels, and indicated in low-risk phenotypes and nonanaphylactic symptoms, such as those with benign delayed-onset rashes without systemic symptoms or SCAR features
 
 ## Palace study
@@ -545,18 +545,14 @@ Source: MD Anderson Cancer Center, Houston, Texas
 
 ## Cross-reactivity: Infectious diseases dogma
 
-::::: columns
+:::: columns
 ::: {.column width="50%"}
 -   Common teaching: If a patient has a documented PCN allergy, the risk of cross reactions with cephalosporins is 10%
 -   THIS IS FALSE, the actual cross reactivity is more likely 2%-3%
     -   A subset of patients with history of anaphylaxis may have cross-reactivity determined by the R1 sidechain of the molecule
     -   Cefazolin as a unique side chain and and very low risk for cross-reactivity
 :::
-
-::: {.column width="50%"}
-![](images/sidechains.png)
-:::
-:::::
+::::
 
 <br>
 
@@ -569,6 +565,10 @@ Source: MD Anderson Cancer Center, Houston, Texas
 ::: aside
 Source: Stanford University Hospital Antimicrobial Stewardship
 :::
+
+## β-lactams with common side chains
+
+![](images/sidechains.png)
 
 ## What is the cross-reactivity with carbapenems?
 
