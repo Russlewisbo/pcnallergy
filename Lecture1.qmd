@@ -1,7 +1,7 @@
 ---
 format:
   revealjs:
-    self-contained: true
+    self-contained: false
     spotlight: true
     touch: true
     controls: true
@@ -416,7 +416,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ## Rationale behind oral amoxicillin challenge
 
-<br> <br>
+<br> 
 
 -   Only ∼2% of penicillin “allergic” individuals develop an acute hypersensitivity reaction with an oral challenge of a therapeutic dose and 1 hour of observation.
     -   An additional approximately 2% will have a delayed onset, typically benign, rash within the next 5 days.
