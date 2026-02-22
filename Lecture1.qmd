@@ -112,7 +112,7 @@ Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 :::
 
-# SCAR: Severe Cutaneous Adverse Reactions{background-color="#9B0014"}
+# SCAR: Severe Cutaneous Adverse Reactions {background-color="#9B0014"}
 
 ## **Erythema multiforme,** <br>Toxic epidermal necrolysis (TEN) {.smaller}
 
@@ -162,7 +162,6 @@ Image: UptoDate
 
 ## DRESS: Pathophysiology <br> and systemic symptoms {.smaller}
 
-
 ::::: columns
 ::: {.column width="40%"}
 -   **Pathophysiology:**
@@ -210,6 +209,7 @@ Image: UptoDate
 **β-lactams are lower risk**
 
 ## Stevens-Johnson Syndrome {.smaller}
+
 <br>
 
 ::::: columns
@@ -416,7 +416,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 
 ## Rationale behind oral amoxicillin challenge
 
-<br> 
+<br>
 
 -   Only ∼2% of penicillin “allergic” individuals develop an acute hypersensitivity reaction with an oral challenge of a therapeutic dose and 1 hour of observation.
     -   An additional approximately 2% will have a delayed onset, typically benign, rash within the next 5 days.
@@ -507,7 +507,7 @@ The PEN-FAST clinical decision rule for patients reporting a penicillin allergy 
 [@macy.etal_2023]
 :::
 
-## Penicillin skin test assessment-Medium risk history {.smaller}
+## Penicillin skin test assessment <br> -Medium risk history {.smaller}
 
 ![](images/medium%20risk.png){fig-align="center" width="800"}
 
@@ -547,20 +547,16 @@ Source: MD Anderson Cancer Center, Houston, Texas
 
 ## Other desensitization protocols
 
-![](images/Sanford.png){fig-align="center" width="800"}
+![](images/Sanford.png){fig-align="center" width="200"}
 
 ## Cross-reactivity: Infectious diseases dogma
 
-:::: columns
-::: {.column width="50%"}
+<br>
+
 -   Common teaching: If a patient has a documented PCN allergy, the risk of cross reactions with cephalosporins is 10%
--   THIS IS FALSE, the actual cross reactivity is more likely 2%-3%
+-   **THIS IS FALSE,** the actual cross reactivity is more likely 2%-3%
     -   A subset of patients with history of anaphylaxis may have cross-reactivity determined by the R1 sidechain of the molecule
     -   Cefazolin as a unique side chain and and very low risk for cross-reactivity
-:::
-::::
-
-<br>
 
 ## Risk of cross-reactivity related to cephalosporin sidechain
 
@@ -574,7 +570,13 @@ Source: Stanford University Hospital Antimicrobial Stewardship
 
 ## β-lactams with common side chains
 
+<br>
+
 ![](images/sidechains.png)
+
+## CEPHTEST: Application of PENFAST <br> score to cephalosporin allergies
+
+![](images/cephfast.png){fig-align="center"}
 
 ## What is the cross-reactivity with carbapenems?
 
@@ -603,7 +605,7 @@ Source: Stanford University Hospital Antimicrobial Stewardship
 -   **STD clinics**
 -   **ICU patients?**
 
-## <br> <br> <br> <br> Non-penicillin allergies? {background-image="images/TMPSMX.png" background-opacity="0.2"}
+# Non-penicillin allergies {background-color="#9B0014"}
 
 ## Similar principles- patient history is key
 
@@ -617,7 +619,7 @@ Source: Stanford University Hospital Antimicrobial Stewardship
 -   Clinical morphology (at several time points)of rash
 -   Histology of eosinophilia?
 
-## Intradermal testing-Non beta-lactams
+## Intradermal testing-Non beta-lactams {.smaller}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -637,7 +639,7 @@ Source: Stanford University Hospital Antimicrobial Stewardship
 Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 :::
 
-## Approach to delayed-type hypersensitivity testing
+## Approach to delayed-type <br> hypersensitivity testing
 
 ::::: columns
 ::: {.column width="50%"}
