@@ -22,15 +22,21 @@ lightbox: true
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
-## Penicillin and antibiotic allergies {background-image="images/nejm_allergy.png" background-opacity="0.2"}
+## Penicillin and Antibiotic Allergies {background-color="#9B0014"}
 
-<br> <br> <br> <br> <br>
+<br> <br>
 
-**Russell E. Lewis** <br> Associate Professor of Infectious Diseases <br> Department of Molecular Medicine <br> University of Padua
+<center>
 
-![](images/unipd.png){.absolute top="550" left="950" width="100" height="100"}
+**Prof. Russell E. Lewis** <br> Department of Molecular Medicine <br> University of Padua
 
-<br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk)
+|  |  |
+|-----------------------------------|-------------------------------------|
+| ![](images/dmmunipd_logo.jpeg){width="100"} | ![](images/unipd_seal_white.svg){width="100"} |
+
+<br> {{< fa solid envelope size=1x >}} russelledward.lewis\@unipd.it <br> {{< fa brands github size=1x >}} [https://github.com/Russlewisbo](https://github.com/Russlewisbo/ESCMID_2022_talk) <br> Slides and course materials: [www.padovaid.com](https://padovaid.com/)
+
+</center>
 
 ## Objectives
 
@@ -106,7 +112,7 @@ Images: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 :::
 
-## SCAR: Severe Cutaneous Adverse Reactions
+# SCAR: Severe Cutaneous Adverse Reactions{background-color="#9B0014"}
 
 ## **Erythema multiforme,** <br>Toxic epidermal necrolysis (TEN) {.smaller}
 
@@ -156,7 +162,6 @@ Image: UptoDate
 
 ## DRESS: Pathophysiology <br> and systemic symptoms {.smaller}
 
-<br> <br>
 
 ::::: columns
 ::: {.column width="40%"}
@@ -205,6 +210,7 @@ Image: UptoDate
 **β-lactams are lower risk**
 
 ## Stevens-Johnson Syndrome {.smaller}
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -214,9 +220,9 @@ Image: UptoDate
 ::: {.column width="50%"}
 -   Drug-sensitized cytotoxic CD8+ T cells mediate keratinocyte necrosis
 
--   TEN has a mortality rate of approximately 30% that can exceed 50% in elderly or immunosuppressed patients. T
+-   TEN has a mortality rate of approximately 30% that can exceed 50% in elderly or immunosuppressed patients
 
--   The severity-of-illness score for TEN (SCORTEN) algorithm facilitates clinical diagnosis and prognostication.
+-   The severity-of-illness score for TEN (SCORTEN) algorithm facilitates clinical diagnosis and prognostication
 
 -   SJS is associated with the maintenance of long-lasting tissue-resident memory T-cell responses in the skin that persist after SCAR, necessitating accurate identification and lifelong avoidance of the culprit antibiotic
 :::
@@ -262,7 +268,7 @@ Image: Kathrin Hoffmeier Sherer, M.D., Univ. of Basel
 [@castells.etal_2019]
 :::
 
-## <br> <br> <br> <br> Penicillin allergy {background-image="images/amoxicillin.png" background-opacity="0.1"}
+# Penicillin allergy {background-color="#9B0014"}
 
 ## Penicillin allergy epidemiology
 
