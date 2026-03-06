@@ -1,0 +1,67 @@
+/* Print-friendly styles */
+@media print {
+  .quarto-title-block {
+    page-break-after: avoid;
+  }
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+  figure, img {
+    page-break-inside: avoid;
+  }
+  .callout {
+    page-break-inside: avoid;
+  }
+  nav#TOC {
+    display: none;
+  }
+  .print-btn {
+    display: none !important;
+  }
+  #quarto-sidebar {
+    display: none;
+  }
+  #quarto-margin-sidebar {
+    display: none;
+  }
+  .sidebar {
+    display: none;
+  }
+}
+
+/* Custom styles for handout */
+.print-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  background-color: #9B0014;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  transition: all 0.3s ease;
+}
+
+.print-btn:hover {
+  background-color: #7a0010;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.4);
+}
+
+.key-point {
+  border-left: 4px solid #9B0014;
+  padding: 10px 15px;
+  margin: 15px 0;
+  background-color: #f9f2f2;
+}
+
+.clinical-pearl {
+  border-left: 4px solid #2E86C1;
+  padding: 10px 15px;
+  margin: 15px 0;
+  background-color: #eaf2f8;
+}
